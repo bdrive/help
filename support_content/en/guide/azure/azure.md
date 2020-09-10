@@ -4,7 +4,7 @@
 
 Go to Storage accounts field in Azure Portal and select Storage account to connect to NetDrive.
  
- ![Azure](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/azure/Picture1.png)
+ ![Azure](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/azure/Picture0.png)
 
 Select Access keys from the Storage Account and then check Storage account name and Key.
 
