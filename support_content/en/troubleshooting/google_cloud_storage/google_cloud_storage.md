@@ -1,6 +1,6 @@
-# Google Cloud Storage
+### Google Cloud Storage
 
-## 1.	Unable to connect to Google Cloud Storage
+#### 1.	Unable to connect to Google Cloud Storage
 
 You need to set client ID / secret to access your Google Cloud Storages. 
 

@@ -1,6 +1,6 @@
-# Connection Guide for Azure Blob/File Storage
+### Connection Guide for Azure Blob/File Storage
 
-## 1. Check Access Keys of Azure Storage accounts
+#### 1. Check Access Keys of Azure Storage accounts
 
 Go to Storage accounts field in Azure Portal and select Storage account to connect to NetDrive.
  
@@ -10,7 +10,7 @@ Select Access keys from the Storage Account and then check Storage account name 
 
  ![Azure](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/azure/Picture2.png)
  
-## 2.	Add Azure Blob/File Storage Drive Item
+#### 2.	Add Azure Blob/File Storage Drive Item
 
 Click “+” button to add new Drive Item in NetDrive.  Select Azure Blob Storage or Azure File Storage from STORATE TYPE list and then click “CONNECT” button.
  

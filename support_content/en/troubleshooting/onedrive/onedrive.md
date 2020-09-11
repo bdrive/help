@@ -1,6 +1,6 @@
-# OneDrive
+### OneDrive
 
-## 1.	How to connect OneDrive with different accounts
+#### 1.	How to connect OneDrive with different accounts
 
 You should logout from OneDrive web in your web browser first. Then try adding a new drive.
 

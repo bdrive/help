@@ -1,6 +1,6 @@
-# SFTP
+### SFTP
 
-## 1.	Sync Failed to SFTP on Synology NAS
+#### 1.	Sync Failed to SFTP on Synology NAS
 
 If your sync target is SFTP on Synology NAS you need to use ‘System root’ as your mount point. AFAIK, this is a known problem and many other file transfer utilities also suffer from this issue.
 
