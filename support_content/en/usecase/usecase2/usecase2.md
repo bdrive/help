@@ -2,7 +2,7 @@
 
 You can share files with your team members using any method described below.
 
--	Send email with the file attached ![usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase2/Picture1.png)
+-	Send email with the file attached
 -	Attach the file to bulletin board or a forum
 -	Inform the path or shareable link after uploading the file to cloud storage or file server
 
@@ -16,11 +16,12 @@ You can inform the file location of the file server to your members, but it is h
 
 You can solve above issues using Team Drive and File Lock option provided by NetDrive.
 
-- There is no need to upload/download your files when using NetDrive.
--	You do not need to share your files/folders when using NetDrive Team Drive.  Every Team members will use the same drive.  
+  - There is no need to upload/download your files when using NetDrive.
+
+  - You do not need to share your files/folders when using NetDrive Team Drive.  Every Team members will use the same drive.  
     - ![usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase2/Picture3.png)
 
--	With NetDrive File Lock option, you can protect your files since it disables the file deletion/ editing of other members or devices.  
+  -	With NetDrive File Lock option, you can protect your files since it disables the file deletion/ editing of other members or devices.  
     - ![usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase2/Picture4.png)
 
 Using NetDrive Team Drive and File Lock option, you will experience one step further convenient remote/home working environment especially in quarantine daily life of COVID-19.
