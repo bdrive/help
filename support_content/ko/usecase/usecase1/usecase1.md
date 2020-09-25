@@ -1,22 +1,20 @@
-### Increase the work convenience and productivity
+### 작업의 편의성을 높여 생산성이 높아집니다
 
-There are many occasions in which documents or working files are saved in file server.
-In such cases, it normally follows the procedure below.
+문서 파일이나 작업 파일을 파일 서버에 보관하는 경우가 많이 있습니다.
+이런 경우, 아래 순서대로 작업을 합니다.
 
-1.	Download the working file to the computer.
-2.	Open the downloaded file using any program or file explorer.
-3.	Edit and then save the file. 
-4.	Upload this file to the file server.
+1.	작업할 파일을 내 컴퓨터로 다운로드한다.
+2.	다운로드한 파일을 프로그램에서 열거나 탐색기를 이용하여 연다.
+3.	편집하고 저장한다. 
+4.	작업한 파일을 파일 서버에 업로드한다.
 
-However, if your file server is connected to NetDrive, you can directly use your files as if they exist in your PCs. 
+그러나, 파일 서버가 NetDrive로 연결되어 있다면, 파일이 내 PC에 있는 것처럼 바로 사용할 수 있습니다. 
+1.	NetDrive로 연결된 드라이브에서 탐색기 또는 프로그램을 이용하여 바로 연다.
+  - ![usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase1/Picture1.png)
 
-1.	Through the drive connected by NetDrive, you can open your file either via file explorer or the program.
+2.	편집하고 저장.
+  - ![usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase1/Picture2.png)
 
-  ![usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase1/Picture1.png)
+작업에 필요한 과정을 많이 줄일 수 있어 편리하고 생산성을 높일 수 있습니다.
+또한 복사본을 많이 유지할 필요도 없습니다.	
 
-2.	Edit and then save the file.
- 
- ![usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase1/Picture2.png)
-
-It shortens your working steps which improves the work convenience and productivity.
-You do not have to maintain multiple file copies either.
