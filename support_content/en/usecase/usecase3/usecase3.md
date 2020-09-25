@@ -5,3 +5,5 @@ It really is troublesome to connect to cloud storages or access to different kin
 
 NetDrive enables to connect to all kinds of cloud storages and NAS at once.
 It connects to private storages and working storages as well.
+ 
+![usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase3/Picture1.png)
