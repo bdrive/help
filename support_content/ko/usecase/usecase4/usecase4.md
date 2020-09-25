@@ -6,4 +6,4 @@
 
 그러나 넷드라이브로는 가능합니다. 두개 이상의 구글 드라이브 계정을 하나의 PC에서 사용할 수 있습니다.
  
-[usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase4/Picture1.png)
+![usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase4/Picture1.png)

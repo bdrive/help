@@ -6,4 +6,4 @@ You use corporate Google Drive account at work.  You might use your personal Goo
 
 However, you can manage this with NetDrive.  It allows to use multiple Google Drive accounts in the same PC at the same time. 
  
-[usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase4/Picture1.png)
+![usecase](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/usecase/usecase4/Picture1.png)
