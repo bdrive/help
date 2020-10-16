@@ -7,22 +7,22 @@
 - STORAGE TYPE에서 사용하고자 하는 원격 스토리지 타입을 선택한 후, CONNECT 버튼을 눌러서 원격 스토리지를 사용할 수 있도록 인증을 받습니다.
   추가할 수 있는 드라이브 아이템의 종류는 아래와 같습니다.
 
-  - [Backblaze B2](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=backblaze-b2-config&language=ko)
-  - [Box](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=box-config&language=ko)
-  - [Dropbox](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=dropbox-config&language=ko)
-  - [FTP](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=ftp-config&language=ko)
-  - [Google Drive](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=google-drive-config&language=ko)
-  - [Google Cloud Storage](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=google-cloud-storage-config&language=ko)
-  - [hubiC](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=hubic-config&language=ko)
-  - [OneDrive](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=onedrive-config&language=ko)
-  - [OneDrive for Business](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=onedrive-for-business-config&language=ko)
-  - [S3](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=s3-config&language=ko)
-  - [S3 Compatible](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=s3-comp-config&language=ko)
-  - [SFTP](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=sftp-config&language=ko)
-  - [Swift](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=swift-config&language=ko)
-  - [ucloud biz](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=ucloud-biz-config&language=ko)
-  - [WebDAV](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=webdav-config&language=ko)
-  - [Amazon Drive (discontinued)](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=amazon-drive-config&language=ko)
+  - [Backblaze B2](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=backblaze-b2-config)
+  - [Box](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=box-config)
+  - [Dropbox](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=dropbox-config)
+  - [FTP](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=ftp-config)
+  - [Google Drive](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=google-drive-config)
+  - [Google Cloud Storage](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=google-cloud-storage-config)
+  - [hubiC](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=hubic-config)
+  - [OneDrive](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=onedrive-config)
+  - [OneDrive for Business](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=onedrive-for-business-config)
+  - [S3](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=s3-config)
+  - [S3 Compatible](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=s3-comp-config)
+  - [SFTP](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=sftp-config)
+  - [Swift](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=swift-config)
+  - [ucloud biz](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=ucloud-biz-config)
+  - [WebDAV](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=webdav-config)
+  - [Amazon Drive (discontinued)](/support/?type=documents&path=netdrive_manual/add-configure-drive&page=amazon-drive-config)
 
 - "CONNECT" 버튼 옆에 있는 "OPTIONS" 버튼을 누르면 스토리지 타입별로 지원하는 옵션값들을 설정할 수 있습니다.
 
