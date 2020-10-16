@@ -1,11 +1,3 @@
----
-title: Swift
-keywords:
-sidebar: netdrive_sidebar
-permalink: 72-86-swift-config.html
-toc: false
-hide_sidebar: false
----
 
 CONNECT
 ==================

@@ -1,11 +1,3 @@
----
-title: Google Cloud Storage
-keywords:
-sidebar: netdrive_sidebar
-permalink: 72-79-google-cloud-stroage-config.html
-toc: false
-hide_sidebar: false
----
 
 CONNECT
 ==================

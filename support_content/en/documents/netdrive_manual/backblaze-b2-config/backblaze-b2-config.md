@@ -1,11 +1,3 @@
----
-title: Backblaze B2
-keywords:
-sidebar: netdrive_sidebar
-permalink: 72-74-backblaze-b2-config.html
-toc: false
-hide_sidebar: false
----
 
 CONNECT
 ==================

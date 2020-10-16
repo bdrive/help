@@ -1,11 +1,3 @@
----
-title: OneDrive for Business
-keywords:
-sidebar: netdrive_sidebar
-permalink: 72-82-onedrive-for-business-config.html
-toc: false
-hide_sidebar: false
----
 
 CONNECT
 ==================

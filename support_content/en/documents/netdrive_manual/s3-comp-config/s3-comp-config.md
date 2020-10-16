@@ -1,11 +1,3 @@
----
-title: S3 Compatible
-keywords:
-sidebar: netdrive_sidebar
-permalink: 72-84-s3-comp-config.html
-toc: false
-hide_sidebar: false
----
 
 NetDrive supports to connect S3 compatible such as wasabi.com.
 

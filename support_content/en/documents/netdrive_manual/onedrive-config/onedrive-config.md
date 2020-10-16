@@ -1,11 +1,3 @@
----
-title: OneDrive
-keywords:
-sidebar: netdrive_sidebar
-permalink: 72-81-onedrive-config.html
-toc: false
-hide_sidebar: false
----
 
 CONNECT
 ==================

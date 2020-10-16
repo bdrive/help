@@ -1,11 +1,3 @@
----
-title: WebDAV
-keywords:
-sidebar: netdrive_sidebar
-permalink: 72-88-webdav-config.html
-toc: false
-hide_sidebar: false
----
 
 CONNECT
 ==================

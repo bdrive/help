@@ -1,11 +1,3 @@
----
-title: SFTP
-keywords:
-sidebar: netdrive_sidebar
-permalink: 72-85-sftp-config.html
-toc: false
-hide_sidebar: false
----
 
 CONNECT
 ==================
