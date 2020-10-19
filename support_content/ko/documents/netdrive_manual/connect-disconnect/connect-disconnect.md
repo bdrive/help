@@ -2,11 +2,11 @@
 
 # 드라이브 연결
 
-<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_1.jpg">
+<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_1.jpg" width="70%">
 
 "CONNECT" 버튼을 누르면 연결할 수 있습니다. 연결하는 중에는 "CONNECTING"이라고 나옵니다.
 
-<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_2.jpg">
+<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_2.jpg" width="50%">
 
 연결이 되어 있지 않을때, 메뉴 버튼을 누르면 위와 같은 메뉴가 나옵니다.
 
@@ -19,12 +19,12 @@
 
 연결이 되어 있으면 좌측 하단에 드라이브의 용량을 표시하거나 "CONNECTED"라고 표시가 됩니다.
 
-<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_3.jpg">
+<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_3.jpg" width="70%">
 
 "DISCONNECT"를 누르면 연결이 끊기고 "DISCONNECTING"이라고 표시가 됩니다.
 연결 끊기가 완료되면 좌측 하단에 "NOT CONNECTED"라고 표시가 되고 "CONNECT" 버튼으로 변경됩니다.
 
-<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_4.jpg">
+<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_4.jpg" width="50%">
 
 연결되어 있을때 메뉴 버튼을 누르면 아래와 같은 메뉴가 나옵니다.
 
