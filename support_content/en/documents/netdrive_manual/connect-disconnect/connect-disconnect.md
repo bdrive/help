@@ -1,10 +1,10 @@
 # Connect
 
-<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_1.jpg" width="70%">
+<img class="markdown_mw" src="https://doc.bdrive.com/images/connect_disconnect_1.jpg" width="70%">
 
 You can connect to remote site by clicking "CONNECT" button. It will turn to "CONNECTING" while connecting to remote server.
 
-<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_2.jpg" width="50%">
+<img class="markdown_mw" src="https://doc.bdrive.com/images/connect_disconnect_2.jpg" width="50%">
 
 There are four sub-menus to select while not connected to remote server.
 
@@ -17,11 +17,11 @@ There are four sub-menus to select while not connected to remote server.
 
 While connected to remote server, it displays disk space or "CONNECTED" label.
 
-<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_3.jpg" width="70%>
+<img class="markdown_mw" src="https://doc.bdrive.com/images/connect_disconnect_3.jpg" width="70%>
 
 If you click "DISCONNECT" button, the status changes to "DISCONNECTING", "NOT CONNECTED" and finally to "DISCONNECT".
 
-<img class="markdown" src="https://doc.bdrive.com/images/connect_disconnect_4.jpg" width="50%">
+<img class="markdown_mw" src="https://doc.bdrive.com/images/connect_disconnect_4.jpg" width="50%">
 
 There are four sub-menus to select while connected to remote server.
 
