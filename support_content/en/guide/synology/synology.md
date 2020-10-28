@@ -38,7 +38,7 @@ Type in User ID and Password in Account field.  (This Account requires the acces
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture6.png)
 
 ##### Default Setup on Drive Item
-Default setup on Drive Item can be performed in Configure a Personal Drive page.  Refer to [the manual](https://www.netdrive.net/support/?type=documents&path=netdrive_manual/add-configure-drive&page=webdav-config) for detail information. 
+Default setup on Drive Item can be performed in Configure a Personal Drive page.  Refer to [the manual](https://www.netdrive.net/support/?type=documents&path=netdrive_manual&page=add-configure-drive) for detail information. 
 
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture7.png)
  

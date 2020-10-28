@@ -42,7 +42,7 @@ Account 정보에 User ID, Password를 입력합니다. (해당 Account가 WebDA
 
 ##### Drive Item에 대한 기본 설정
 
-Configure a Personal Drive 페이지에서 Drive Item에 대한 기본 설정을 합니다. Drive Item의 기본 설정에 대해서는 [매뉴얼](https://www.netdrive.net/support/?type=documents&path=netdrive_manual/add-configure-drive&page=webdav-config)을 참고하시기 바랍니다. 
+Configure a Personal Drive 페이지에서 Drive Item에 대한 기본 설정을 합니다. Drive Item의 기본 설정에 대해서는 [매뉴얼](https://www.netdrive.net/support/?type=documents&path=netdrive_manual&page=add-configure-drive)을 참고하시기 바랍니다. 
 
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture7.png)
  

@@ -16,7 +16,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 ### **Useful Links**
 
    * Support: [https://support.bdrive.com](https://support.bdrive.com)
-   * User Docs: [https://doc.bdrive.com](https://doc.bdrive.com)
+   * User Docs: [https://www.netdrive.net/help/](https://www.netdrive.net/help/)
    * Accounts: [https://accounts.bdrive.com](https://accounts.bdrive.com)
    * Team Account: [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team)
    * Add License: [https://accounts.bdrive.com/plans_products/NetDrive3](https://accounts.bdrive.com/plans_products/NetDrive3)
