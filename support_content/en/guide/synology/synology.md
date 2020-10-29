@@ -6,6 +6,8 @@ It is required to install WebDAV in Synology NAS.  Go to Package Center and inst
  
  ![Install WebDAV](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture1.png)
 
+/br
+
 #### 2. WebDAV Setup
 
 Run WebDAV Server and check both Enable HTTP and Enable HTTPS.  Basically, Synology WebDAV uses port number 5005 for HTTP and 5006 for HTTPS.
