@@ -18,8 +18,7 @@ When connecting to Synology NAS through the internet, it is required to complete
  
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture3.png)<br><br>
 
-#### 4. Connecting Synology NAS WebDAV and NetDrive<br>
-
+#### 4. Connecting Synology NAS WebDAV and NetDrive
 ##### Add a New Drive Item
 
 Click “+” button near “Start here” and then add a new Drive Item.
@@ -57,8 +56,7 @@ Using file explorer, check whether Synology NAS WebDAV is correctly mount or not
  
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture9.png)<br><br><br>
  
-#### 5. Checklist for Synology NAS WebDAV Connection Issues<br>
-
+#### 5. Checklist for Synology NAS WebDAV Connection Issues
 ##### Check Access Permission of WebDAV Server
 
 “WebDAV server” permission can be set in “User” menu in Control Panel of Synology NAS DSM.
