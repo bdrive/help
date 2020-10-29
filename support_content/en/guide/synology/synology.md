@@ -21,32 +21,38 @@ When connecting to Synology NAS through the internet, it is required to complete
 #### 4. Connecting Synology NAS WebDAV and NetDrive<br>
 
 ##### Add a New Drive Item
+
 Click “+” button near “Start here” and then add a new Drive Item.
  
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture4.png)<br><br>
 
 ##### Select WebDAV STORAGE TYPE 
+
 Select your WebDAV item from STORAGE TYPE list and then click “CONNECT”.
  
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture5.png)<br><br>
 
 ##### Setup WebDAV Connection
+
 Type in the URL and port number of your Synology WebDAV in Server field.  Check “Use SSL(https)” if you use HTTPS.  (By default, Synology NAS WebDAV uses port 5005 for HTTP and 5006 for HTTPS)
 Type in User ID and Password in Account field.  (This Account requires the access permission to WebDAV)
  
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture6.png)<br><br>
 
 ##### Default Setup on Drive Item
+
 Default setup on Drive Item can be performed in Configure a Personal Drive page.  Refer to [the manual](https://www.netdrive.net/support/?type=documents&path=netdrive_manual&page=add-configure-drive) for detail information. 
 
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture7.png)<br><br>
  
 ##### Mount a Drive Item 
+
 Click “CONNECT” button from WebDAV Drive Item and this will successfully mount WebDAV to the PC.
 
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture8.png)<br><br>
  
 ##### Check Mount Status
+
 Using file explorer, check whether Synology NAS WebDAV is correctly mount or not.
  
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture9.png)<br><br><br>
@@ -54,6 +60,7 @@ Using file explorer, check whether Synology NAS WebDAV is correctly mount or not
 #### 5. Checklist for Synology NAS WebDAV Connection Issues<br>
 
 ##### Check Access Permission of WebDAV Server
+
 “WebDAV server” permission can be set in “User” menu in Control Panel of Synology NAS DSM.
 
 Go to “User” menu in Control Panel and select the user to connect to WebDAV, and then click “Edit”.
