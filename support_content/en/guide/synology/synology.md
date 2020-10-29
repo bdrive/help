@@ -59,6 +59,7 @@ Using file explorer, check whether Synology NAS WebDAV is correctly mount or not
 Go to “User” menu in Control Panel and select the user to connect to WebDAV, and then click “Edit”.
 
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture10.png)
+ 
 Go to “Applications” tab and select “Allow” in WebDAV Server field.
 
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture11.png)<br><br>
