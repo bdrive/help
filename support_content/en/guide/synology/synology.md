@@ -1,4 +1,4 @@
-### Connection Guide for NetDrive & Synology NAS WebDAV
+### Connection Guide for NetDrive & Synology NAS WebDAV<br>
 
 #### 1. Activating WebDAV in Synology NAS
 
@@ -16,9 +16,9 @@ Run WebDAV Server and check both Enable HTTP and Enable HTTPS.  Basically, Synol
 
 When connecting to Synology NAS through the internet, it is required to complete DDNS setup.  DDNS setup enables to access to Synology NAS through the internet.  (Omit DDNS setup of Synology NAS if already completed)
  
- ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture3.png)<br><br><br>
+ ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture3.png)<br><br>
 
-#### 4. Connecting Synology NAS WebDAV and NetDrive<br>
+#### 4. Connecting Synology NAS WebDAV and NetDrive
 
 ##### Add a New Drive Item
 
@@ -57,7 +57,7 @@ Using file explorer, check whether Synology NAS WebDAV is correctly mount or not
  
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture9.png)<br><br><br>
  
-#### 5. Checklist for Synology NAS WebDAV Connection Issues<br>
+#### 5. Checklist for Synology NAS WebDAV Connection Issues
 
 ##### Check Access Permission of WebDAV Server
 
@@ -65,7 +65,7 @@ Using file explorer, check whether Synology NAS WebDAV is correctly mount or not
 
 Go to “User” menu in Control Panel and select the user to connect to WebDAV, and then click “Edit”.
 
- ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture10.png)
+ ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture10.png)<br>
  
 Go to “Applications” tab and select “Allow” in WebDAV Server field.
 
@@ -81,7 +81,7 @@ Check whether user ID is registered in auto block list in Synology NAS DSM.  If 
 
 Check whether the port number of Synology NAS WebDAV is correctly set in NetDrive Drive Item WebDAV.
 
- ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture13.png)
+ ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture13.png)<br>
 
  ![DDNS Setup](https://raw.githubusercontent.com/bdrive/help/master/support_content/en/guide/synology/Picture14.png)<br><br>
 
