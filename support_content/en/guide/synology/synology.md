@@ -1,4 +1,4 @@
-### Connection Guide for NetDrive & Synology NAS WebDAV<br>
+### Connection Guide for NetDrive & Synology NAS WebDAV
 
 #### 1. Activating WebDAV in Synology NAS
 
