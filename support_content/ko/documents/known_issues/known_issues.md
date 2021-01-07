@@ -48,3 +48,11 @@ This is a known issue and we are looking for the solution.
 ### Failed to upgrade from 3.7 and below (Windows)
 
 If you have problem when upgrading from NetDrive 3.7 and below please uninstall first and install recent version.
+
+Failed to unzip on Finder (macOS)
+
+macOS tries to create a temporary folder in parent folder and unzip files into the temporary folder.
+
+Unzip fails if the zip files is located at the root folder or a folder where it's parent folder cannot create a temporary folder (like top most folder of Synology WebDAV).
+
+In this case move the zip file to subdirectories, unzip the file and move back the unzipped files. It's better to move the zip file to your local hard disk for unzipping.
