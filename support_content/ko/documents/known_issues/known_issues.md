@@ -56,3 +56,13 @@ macOS tries to create a temporary folder in parent folder and unzip files into t
 Unzip fails if the zip files is located at the root folder or a folder where it's parent folder cannot create a temporary folder (like top most folder of Synology WebDAV).
 
 In this case move the zip file to subdirectories, unzip the file and move back the unzipped files. It's better to move the zip file to your local hard disk for unzipping.
+
+
+## S3 compatible storages
+
+Your S3 compatible storage must support DNS based bucket naming.
+
+Please refer to following post.
+
+* https://aws.amazon.com/ko/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/
+
