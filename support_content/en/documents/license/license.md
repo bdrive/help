@@ -10,7 +10,7 @@ Once the license purchase is successfully completed, no-reply confirmation email
 
 _Note each account ID can purchase only one license type._
 
-### **Plans In General**
+### **Plans**
 
 NetDrive3 has two kinds of plans, Personal and Team, which can be found in [**Bdrive website**](http://www.netdrive.net/store) _(https://www.netdrive.net/store)_.
 
@@ -22,7 +22,7 @@ NetDrive3 has two kinds of plans, Personal and Team, which can be found in [**Bd
 
 Two types of NetDrive3 licenses are available, subscription based and onetime purchase.
 
-- ‘**Yearly Subscription**’ can use the license during subscription period along with customer support and update. It is very important to know about [**Subscription Auto-Renewal**](#subscription-auto-renewal) which will be auto-charged on the initial purchased day of next year, using the same payment method.
+- ‘**Yearly Subscription**’ can use the license during subscription period along with customer support and version update. It is very important to know about [**Subscription Auto-Renewal**](#subscription-auto-renewal) which will be auto-charged on the initial purchased day of next year, using the same payment method.
 
 - ‘**Lifetime License**’ literally can be used during product lifetime with selection of ‘_support and update_’ period, either 1 year or lifetime.
 
@@ -34,15 +34,15 @@ _Note Personal plan offers both 1 year and lifetime support option whereas Team 
 
 ### **Add License**
 
-License can be added to initial purchase order at 'add license' price. The purchase can be proceeded in [**License category in Account Site**](https://accounts.bdrive.com/plans_products/NetDrive3) _(https://accounts.bdrive.com/plans_products/NetDrive3)_.
+License can be added to initial purchase order at 'Add license' price. The purchase can be proceeded in [**License category in Account Site**](https://accounts.bdrive.com/plans_products/NetDrive3) _(https://accounts.bdrive.com/plans_products/NetDrive3)_.
 
-When placing an add license order, the followings will be proceeded for each plan below:
+When placing an add license order, the followings will be proceeded :
 
-- ‘**Yearly Subscription**’ will first cancel current (initial or the most recent) purchase order by partial refunding applying ‘prorate’, counting from initial or the most recent purchase day. Then a new Yearly Subscription purchase order (for 1 year) will be issued for total license quantities at adjusted total price. It is important to know that this order will be auto-renewed on this day, annually, as explained in [**Subscription Auto-Renewal**](#subscription-auto-renewal).
+- ‘**Yearly Subscription**’ will first cancel current (initial or the most recent) purchase order by partial refunding applying ‘prorate’, counting from initial or the most recent purchase day. Then a new Yearly Subscription purchase order will be issued for total license quantities at adjusted total price for 1 new year. It is important to know that the renewal day is now changed to this day as explained in [**Subscription Auto-Renewal**](#subscription-auto-renewal).
 
 - ‘**Lifetime License**’ will issue individual purchase order for each add license request at corresponding add license price.
 
-_Note Yearly Subscription allows both add and remove license option whereas Lifetime License limits to add license only._
+_Note Yearly Subscription allows to 'Remove license' purchased within 14 days according to refund policy._
 
 _Note support and update period of added licenses of Lifetime license for 1 year will comply with the license period of 'initial' purchase order (not add license period). Support and update for Yearly Subscription lasts during subscription period._
 
