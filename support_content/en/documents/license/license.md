@@ -63,7 +63,7 @@ Each customer needs to [**Create Account ID**](#create-account-id) prior to purc
 
 Yearly Subscription continues yearly base by auto-charging on the initial purchase day of each successive year, using the same payment method. A renewal order will be issued and emailed to user account ID.
 
-User is required to check the expiration date of the credit card before annual auto-charge transaction is proceeded since otherwise it will fail the renewal which eventually leads to the cancellation of the entire subscription immediately. Our customers will receive renewal notification email 7 days prior to the renewal date advising about upcoming auto-charge, so it is important to double check card information including the expiration date. Change Credit Card is available in our payment gateway, BlueSnap.
+User is required to check the expiration date of the credit card before annual auto-charge transaction is proceeded since otherwise it will fail the renewal which eventually leads to the cancellation of the entire subscription immediately. Our customers will receive renewal notification email 7 days prior to the renewal date advising about upcoming auto-charge, so it is important to double check card information including the expiration date. Change Credit Card is available in [**Change Credit Card**](#change-credit-card).
 
 For any reason, if you need to stop yearly subscription, check [**End Subscription**](#end-subscription) and [**Refund Policy**](#refund-policy) first and then write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with account ID and transaction ID.
 
