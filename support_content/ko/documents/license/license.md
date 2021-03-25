@@ -76,32 +76,31 @@ Team 라이센스 관련 멤버 추가, 라이센스 추가, 각종 기능 등�
 
 ### **ID 계정 등록**
 
-Prior to purchase or login to NetDrive3, every customer needs to create their own Bdrive account ID and set password in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup). This account ID is required to be verified (in the email sent) before using the software. This account ID is primary identification we use to send email verification, license confirmation, support contact, renewal notification, etc.
+NetDrive3 라이센스 구매 및 로그인 이전에, 모든 사용자는 Bdrive ID 계정 등록을 [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) 에서 진행하여야 합니다. ID 계정은 해당 email 을 통해 개인 확인이 되어야만 소프트웨어를 사용할 수 있습니다. 이 ID 계정은 이메일 송신, 라이센스 확인, 고객지원, 갱신 알림시 이용하는 가장 중요한 ID 입니다.
 
-Third party login option of Google, Twitter, or Google is provided, and [**Change Login Method**](#change-login-method) is also available in [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_.
+제3 로그인 옵션으로 Facebook, Twitter, Google 이 지원되며, [**로그인 방식 변경**](#change-login-method) 이 [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 에서 가능합니다.
 
-We support to [**Change Account ID**](#change-account-id) and [**Reset Password**](#reset-password) as well.
+아울러 [**ID 계정 변경**](#change-account-id) 및 [**패스워드 변경**](#reset-password) 기능도 지원합니다.
 
+### **ID 계정 변경**
 
-### **ID 계정 등록**
+현재 사용중인 ID 계정을 다른 '새로운' ID 계정으로 변경이 가능합니다. 새로운 ID는 반드시 [**ID 계정 등록**](#create-account-id)을 완료 한 이후에 변경이 가능합니다. ID 변경은 단순히 라이센스 소유자를 변경하는 것이므로, 기존 구매자의 정보(신용카드, 주소 등)는 유지됩니다.
 
-Prior to purchase or login to NetDrive3, every customer needs to create their own Bdrive account ID and set password in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup). This account ID is required to be verified (in the email sent) before using the software. This account ID is primary identification we use to send email verification, license confirmation, support contact, renewal notification, etc.
+ID 계정 변경시 구매한 라이센스 전체를 이전하게 되며, 라이센스를 분할하여 이전하는 기능은 지원되지 않습니다. 또한, 이미 라이센스를 보유하고 있는 ID 계정으로의 이전은 불가합니다.
 
-Third party login option of Google, Twitter, or Google is provided, and [**Change Login Method**](#change-login-method) is also available in [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_.
-
-We support to [**Change Account ID**](#change-account-id) and [**Reset Password**](#reset-password) as well.
-
-### **Change Account ID**
-
-We assist to transfer current license to a new account ID. Prior to the transfer, this new account ID needs to be created in [**Create Account ID**](#create-account-id). This transfer simply changes the user account ID, and the original information (card holder and address) remains fixed.
-
-When transferring the license, we handle the entire licenses under current account ID as a whole, meaning that we do not transfer part of the licenses. Also, it is not possible to transfer to an account ID that already has paid licenses.
-
-To request to change account ID, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with current account ID and new account ID.
+ID 계정 변경 요청시 '변경 이전 ID, 변경 이후 ID' 정보를 반드시 적시하여 [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 보내주시기 바랍니다.
 
 ### **패스워드 변경**
 
-In case of lost or need for a change, the password can be reset with correct account ID provided in [**Accounts category in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_. Reset password is completed by verifying the email sent to this address.
+패스워드 분실 등으로 변경이 필요한 경우, [**Accounts category in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 에서 진행이 가능합니다. 패스워스 리셋은 사용자 ID 계정으로 보내진 이메일 확인을 통해서 완료 됩니다.
+
+### **로그인 방식 변경**
+
+Once signed in with any third party credential (Facebook, Twitter, Google), user can change login method to a different third party or to email account ID in [**Manage Your Login Methods in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ anytime.
+
+_Note user email account ID is used by default if current third party is removed._
+
+
 
 ### **로그인 방식 변경**
 
