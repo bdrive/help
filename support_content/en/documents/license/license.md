@@ -8,7 +8,7 @@ A trial version is available in [**Bdrive website**](https://www.netdrive.net/st
 
 Once the license purchase is successfully completed, no-reply confirmation email is immediately sent to user account ID along with the invoice link. Useful license information can also be found in [**Account Site**](#account-site) _(https://accounts.bdrive.com)_.
 
-_Note each account ID can purchase only one license type._
+_Note: Each account ID can purchase only one license type._
 
 ### **Plans**
 
@@ -30,7 +30,7 @@ Two types of NetDrive3 licenses are available, subscription based and onetime pu
 
   - In case of **‘lifetime’ support and update option**, the license will last during product lifetime along with support and update.
 
-_Note Personal plan offers both 1 year and lifetime support option whereas Team plan offers lifetime option only._
+_Note: Personal plan offers both 1 year and lifetime support option whereas Team plan offers lifetime option only._
 
 ### **Add License**
 
@@ -42,13 +42,13 @@ When placing an add license order, the followings will be proceeded :
 
 - ‘**Lifetime License**’ will issue individual purchase order for each add license request at corresponding add license price.
 
-_Note Yearly Subscription allows to 'Remove license' purchased within 14 days according to refund policy._
+_Note: Yearly Subscription allows to 'Remove license' purchased within 14 days according to refund policy._
 
-_Note support and update period of added licenses of Lifetime license for 1 year will comply with the license period of 'initial' purchase order (not add license period). Support and update for Yearly Subscription lasts during subscription period._
+_Note: Support and update period of added licenses of Lifetime license for 1 year will comply with the license period of 'initial' purchase order (not add license period). Support and update for Yearly Subscription lasts during subscription period._
 
-_Note remove license is limited one time per day._
+_Note: Remove license of Yearly Subscription is limited one time per day._
 
-_Note Based on our [**Refund Policy**](#refund-policy), refund can be proceeded within 2 weeks of purchased day._
+_Note: Refund can be proceeded within 2 weeks of purchased day based on our [**Refund Policy**](#refund-policy)._
 
 ### **Team Manual**
 
