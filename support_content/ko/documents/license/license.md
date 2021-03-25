@@ -64,7 +64,7 @@ Team 라이센스 관련 멤버 추가, 라이센스 추가, 각종 기능 등�
 
 연간 구독은 최초 결제일에 매년 동일한 결제 방식으로 자동결제 됩니다. 자동결제 직후 email ID 계정으로 구독정보가 보내집니다.
 
-자동결제 7일 전 즈음 갱신 알림 이메일을 ID 계정으로 보내니, 사용자께서는 신용카드 만료일 등의 중요 내용을 확인하시기 권유드립니다. 자동결제 실패하면 라이센스 취소가 즉시 진행되기어 라이센스 사용이 어렵게 됩니다. 신용카드 변경이 필요하면 고객지원에 문의 하시기 바랍니다.
+자동결제 7일 전 즈음 갱신 알림 이메일을 ID 계정으로 보내니, 사용자께서는 신용카드 만료일 등의 중요 내용을 확인하시기 권유드립니다. 자동결제 실패하면 라이센스 취소가 즉시 진행되기어 라이센스 사용이 어렵게 됩니다. 신용카드 변경이 필요하면 [**신용카드 변경**](#change-credit-card)을 확인하시기 바랍니다.
 
 부득이하게 구독 취소가 필요한 경우, [**구독 취소**](#end-subscription) 및 [**환불 정책**](#refund-policy) 을 사전에 확인하신 이후에 [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 접수하여 주시기 바랍니다.
 
@@ -96,33 +96,25 @@ ID 계정 변경 요청시 '변경 이전 ID, 변경 이후 ID' 정보를 반드
 
 ### **로그인 방식 변경**
 
-Once signed in with any third party credential (Facebook, Twitter, Google), user can change login method to a different third party or to email account ID in [**Manage Your Login Methods in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ anytime.
+제3 로그인 옵션(Facebook, Twitter, Google)으로 계정 등록을 했을 경우, 차후에 다른 로그인 방식 또는 email ID 계정으로 [**Manage Your Login Methods in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 에서 변경이 가능합니다.
 
-_Note user email account ID is used by default if current third party is removed._
-
-
-
-### **로그인 방식 변경**
-
-Once signed in with any third party credential (Facebook, Twitter, Google), user can change login method to a different third party or to email account ID in [**Manage Your Login Methods in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ anytime.
-
-_Note user email account ID is used by default if current third party is removed._
+_주의: 제3 로그인 계정이 삭제될 경우 email ID를 기본 계정으로 사용하게 됩니다._
 
 ### **인보이스 링크**
 
-We provide invoice link of each purchase order in [**Accounts category in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_. Click correct invoice link to download or print.
+개별 구매 및 환불 건에 대한 인보이스 링크를 [**Accounts category in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 에서 확인할 수 있습니다. 해당 건을 클릭 한 이후에 다운로드 또는 프린트하여 사용하시면 됩니다.
 
-### **Change Credit Card**
+### **신용카드 변경**
 
-User credit card information can be updated by logging in to our payment gateway, BlueSnap account _(https://cp.bluesnap.com/jsp/account_login.jsp)_.
+사용자 신용카드 정보는 BlueSnap 사이트에서 변경이 가능합니다.
 
-1. Prior to this change, write to [**Bdrive Support Site**](#support-site) _(https://support.bdrive.com)_ to find pre-generated username and password of BlueSnap. This is different from Bdrive account ID and password.
+1. 우선, [**Bdrive 고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 BlueSnap 사이트의 'pre-generated username' 및 'password' 를 요청하세요. (BlueSnap username은 Bdrive account ID와 다릅니다).
 
-1. Then, once logged in with BlueSnap user account, click on the 'Change' button under the payment method column where the change of information is able.
+1. BlueSnap username 수령 이후,  BlueSnap _(https://cp.bluesnap.com/jsp/account_login.jsp)_ 에 로그인하여 'payment method' 하단에 있는 'Change' 버튼을 클릭하며 필요한 정보를 변경하시기 바랍니다.
 
-_Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#support-site) (https://support.bdrive.com) with user account ID and transaction ID._
+_주의: 2018년 10월 2일 이전 구매자 (FastSpring 결제)는 정보 변경이 불가하오니, Bdrive [**고객지원 사이트**](#support-site) (https://support.bdrive.com) 에 연락하시기 바랍니다._
 
-### **구독 **
+### **구독 취소 **
 
 To end yearly subscription, it is recommended to check [**Refund Policy**](#refund-policy) first. Refund policy is stated in [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ as well.
 
