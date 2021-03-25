@@ -48,6 +48,8 @@ _Note support and update period of added licenses of Lifetime license for 1 year
 
 _Note remove license is limited one time per day._
 
+_Note Based on our [**Refund Policy**](#refund-policy), refund can be proceeded within 2 weeks of purchased day._
+
 ### **Team Manual**
 
 Information can be found in [**Team category**](2-100-team-manual) including how to add Team members, add Team Licenses and Team Features.
