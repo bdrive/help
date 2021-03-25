@@ -116,31 +116,33 @@ _주의: 2018년 10월 2일 이전 구매자 (FastSpring 결제)는 정보 변�
 
 ### **구독 취소 **
 
-To end yearly subscription, it is recommended to check [**Refund Policy**](#refund-policy) first. Refund policy is stated in [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ as well.
+구독 취소 이전에 [**환불 정책**](#refund-policy)을 우선 확인 하시기 바랍니다. 환불 정책은 [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ 에서도 참고할 수 있습니다 (영문).
 
-If requested to stop the subscription within 14 days _after_ the purchase or renewal date, we cancel current subscription order and partial refund by applying prorating. If requested _after_ 14 days, we do not cancel current subscription but only stop auto-charge of next subscription. There is no refund on current subscription order.
+구매 14일 이전에 구독 취소 요청을 하시면, 구독 취소와 함께 환불이 진행됩니다.  구매 14일 이후에 구독 취소 요청을 하시면, 다음 해 구독의 자동 결제만 중단되고, 금번 구독에 대한 환불은 진행되지 않습니다. 
 
-To request to stop the subscription, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with user account ID and transaction ID.
+구독 취소가 필요하면  [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
 
-### **Delete Account ID**
+### **ID 계정 삭제**
 
-We delete user account ID by deleting all personal information in our system.
+사용자 ID 계정 삭제 요청시 Bdrive 시스템 내 모든 개인 정보를 삭제합니다.
 
-To request to delete account ID, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with account ID.
+사용자 ID 계정 삭제를 원하면 [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
 
 ### **환불 정책**
 
-Bdrive refunds for the purchase orders requested _**within 14 days**_ after the purchase date. Refund policy is stated in [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ as well.
+Bdrive는 구매 _**14일 이내**_ 건에 한하여 전액 환불을 진행합니다. 환불 정책은 [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ 에서도 참고할 수 있습니다 (영문).
 
-Refunds are returned to the payment method used to make the original purchase. Refunds take about 3-10 business days which can be affected by the card issuer.
-To request a refund, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with user account ID and transaction ID.
+환불은 구매시 사용된 동일한 방법으로 진행되며, 카드사 정책에 따라 통상 3-10일이 소요됩니다.
+
+환불을 원하면 [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
 
 ### **고객지원 사이트**
 
-Our official support forum is [**https://support.bdrive.com**](https://support.bdrive.com).
+Bdrive의 공식 고객지원 사이트는 [**https://support.bdrive.com**](https://support.bdrive.com) 입니다.
 
-We run categories for our products, NetDrive3, CloudSync and NetDrive2. For easier use, sub categories are available such as Technical Issues, Feature Request, How To and FAQ.
+현재 운영중인 상품 카테고리는 NetDrive3 및 CloudSync 입니다. 편리성을 위해 서브 카테고리로 Technical Issues, Feature Request, How To and FAQ 를 운영합니다.
 
-Licenses & Payments category is available for general license inquiries as well. User can use private messages which will be sent to staff members directly.
+Licenses & Payments 카테고리는 라이센스 지불, 가격, 종류 등 일반적인 문의를 위해 사용할 수 있습니다.
 
-As soon as our technical staffs check user support tickets, they review and reply in their earliest time. Sometimes issues needs to be tested and further analyzed which causes the delay. For ongoing (not closed) support inquiries, it is highly recommended to reply to the latest ticket (or email) which includes entire chain of previous conversations, shortening our reviewing time.
+기술문의 관련하여서는, 기술팀에서 문의티켓 접수순으로 내용을 확인한 이후 사용자에게 회신하게 됩니다. 경우에 따라, 심도있는 검토와 분석이 필요해서 회신 지연이 있을수 있습니다. 
+기술문의에 대한 답변시, 항상 최초로 문의하신 티켓에 회신함으로서 기존 대화 내용을 언제든지 참고될 수 있도록 협조 부탁드립니다.
