@@ -62,17 +62,26 @@ Team 라이센스 관련 멤버 추가, 라이센스 추가, 각종 기능 등�
 
 ### **구독 자동 결제**
 
-Yearly Subscription continues yearly base by auto-charging on the initial purchase day of each successive year, using the same payment method. A renewal order will be issued and emailed to user account ID.
+연간 구독은 최초 결제일에 매년 동일한 결제 방식으로 자동결제 됩니다. 자동결제 직후 email ID 계정으로 구독정보가 보내집니다.
 
-User is required to check the expiration date of the credit card before annual auto-charge transaction is proceeded since otherwise it will fail the renewal which eventually leads to the cancellation of the entire subscription immediately. Our customers will receive renewal notification email 7 days prior to the renewal date advising about upcoming auto-charge, so it is important to double check card information including the expiration date. Change Credit Card is available in our payment gateway, BlueSnap.
+자동결제 7일 전 즈음 갱신 알림 이메일을 ID 계정으로 보내니, 사용자께서는 신용카드 만료일 등의 중요 내용을 확인하시기 권유드립니다. 자동결제 실패하면 라이센스 취소가 즉시 진행되기어 라이센스 사용이 어렵게 됩니다. 신용카드 변경이 필요하면 고객지원에 문의 하시기 바랍니다.
 
-For any reason, if you need to stop yearly subscription, check [**End Subscription**](#end-subscription) and [**Refund Policy**](#refund-policy) first and then write to our [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ with account ID and transaction ID.
+부득이하게 구독 취소가 필요한 경우, [**구독 취소**](#end-subscription) 및 [**환불 정책**](#refund-policy) 을 사전에 확인하신 이후에 [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 접수하여 주시기 바랍니다.
 
 ### **평생 서포트 옵션**
 
-For lifetime license with support and update of 1 year expired, we additionally provide maintenance renewal option, either 1 year or lifetime. The renewal can be proceeded in [**https://accounts.bdrive.com/plans_products/NetDrive3/extend_support**](https://accounts.bdrive.com/plans_products/NetDrive3/extend_support) anytime.
+평생 라이센스의 1년 기술지원 및 업테이트가 종료된 경우, 1년 또는 평생 옵션을 선택하여 서포트를 구매할 수 있는 기능을 지원합니다. 서포트 구매는 [**https://accounts.bdrive.com/plans_products/NetDrive3/extend_support**](https://accounts.bdrive.com/plans_products/NetDrive3/extend_support) 에서 언제나 진행할 수 있습니다.
 
-If purchased multiple license quantities, the lifetime support option can only be applied to the entire licenses as a whole. Remove license or support purchase for part of the licenses is not available.
+참고로, 다수의 라이센스를 보유하는 경우, 평생 서포트 구매는 다수 라이센스 전체에 적용되며 라이센스당 서포트 구매는 불가합니다.
+
+### **ID 계정 등록**
+
+Prior to purchase or login to NetDrive3, every customer needs to create their own Bdrive account ID and set password in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup). This account ID is required to be verified (in the email sent) before using the software. This account ID is primary identification we use to send email verification, license confirmation, support contact, renewal notification, etc.
+
+Third party login option of Google, Twitter, or Google is provided, and [**Change Login Method**](#change-login-method) is also available in [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_.
+
+We support to [**Change Account ID**](#change-account-id) and [**Reset Password**](#reset-password) as well.
+
 
 ### **ID 계정 등록**
 
@@ -114,7 +123,7 @@ User credit card information can be updated by logging in to our payment gateway
 
 _Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#support-site) (https://support.bdrive.com) with user account ID and transaction ID._
 
-### **End Subscription**
+### **구독 **
 
 To end yearly subscription, it is recommended to check [**Refund Policy**](#refund-policy) first. Refund policy is stated in [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ as well.
 
