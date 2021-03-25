@@ -114,7 +114,7 @@ _주의: 제3 로그인 계정이 삭제될 경우 email ID를 기본 계정으�
 
 _주의: 2018년 10월 2일 이전 구매자 (FastSpring 결제)는 정보 변경이 불가하오니, Bdrive [**고객지원 사이트**](#support-site) (https://support.bdrive.com) 에 연락하시기 바랍니다._
 
-### **구독 취소 **
+### **구독 취소**
 
 구독 취소 이전에 [**환불 정책**](#refund-policy)을 우선 확인 하시기 바랍니다. 환불 정책은 [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ 에서도 참고할 수 있습니다 (영문).
 
