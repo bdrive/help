@@ -58,7 +58,7 @@ Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 등�
 
 ### **어카운트 페이지**
 
-모든 사용자는 구매 및 사용 이전에 [**ID 계정 등록**](#id) 을 필수적으로 진행하여야 합니다. 어카운트 페이지는 [**https://accounts.bdrive.com**](https://accounts.bdrive.com) 이며 로그인 정보, [**패스워드 변경**](#-8), [**로그인 방식 변경**](#change-login-method), [**인보이스 링크**](#-9), [**라이선스 추가**](-3), [**Add Team Member**](#add-team-member), [**고객지원 사이트**](#-13), etc.
+모든 사용자는 구매 및 사용 이전에 [**ID 계정 등록**](#id) 을 필수적으로 진행하여야 합니다. 어카운트 페이지는 [**https://accounts.bdrive.com**](https://accounts.bdrive.com) 이며 로그인 정보, [**패스워드 변경**](#-7), [**로그인 방식 변경**](#-8), [**인보이스 링크**](#-9), [**라이선스 추가**](-3), [**Add Team Member**](#add-team-member), [**고객지원 사이트**](#-13), etc.
 
 ### **구독 자동 결제**
 
@@ -66,7 +66,7 @@ Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 등�
 
 자동결제 7일 전 즈음 갱신 알림 이메일을 ID 계정으로 보내니, 사용자께서는 신용카드 만료일 등의 중요 내용을 확인하시기 권유드립니다. 자동결제 실패하면 라이선스 취소가 즉시 진행되기어 라이선스 사용이 어렵게 됩니다. 신용카드 변경이 필요하면 [**신용카드 변경**](#-10)을 확인하시기 바랍니다.
 
-부득이하게 구독 취소가 필요한 경우, [**구독 취소**](#-11) 및 [**환불 정책**](#-12) 을 사전에 확인하신 이후에 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 접수하여 주시기 바랍니다.
+부득이하게 구독 취소가 필요하면, [**구독 취소**](#-11) 및 [**환불 정책**](#-12) 을 사전에 확인하신 이후에 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하h기 바랍니다.
 
 ### **평생 서포트 옵션**
 
@@ -78,9 +78,9 @@ Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 등�
 
 NetDrive3 라이선스 구매 및 로그인 이전에, 모든 사용자는 Bdrive ID 계정 등록을 [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) 에서 진행하여야 합니다. ID 계정은 해당 email 을 통해 개인 확인이 되어야만 소프트웨어를 사용할 수 있습니다. 이 ID 계정은 이메일 송신, 라이선스 확인, 고객지원, 갱신 알림시 이용하는 가장 중요한 ID 입니다.
 
-제3 로그인 옵션으로 Facebook, Twitter, Google 이 지원되며, [**로그인 방식 변경**](#change-login-method) 이 [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 에서 가능합니다.
+제3 로그인 옵션으로 Facebook, Twitter, Google 이 지원되며, [**로그인 방식 변경**](#-8) 이 [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 에서 가능합니다.
 
-아울러 [**ID 계정 변경**](#id-2) 및 [**패스워드 변경**](#-8) 기능도 지원합니다.
+아울러 [**ID 계정 변경**](#id-2) 및 [**패스워드 변경**](#-7) 기능도 지원합니다.
 
 ### **ID 계정 변경**
 
@@ -88,7 +88,7 @@ NetDrive3 라이선스 구매 및 로그인 이전에, 모든 사용자는 Bdriv
 
 ID 계정 변경시 구매한 라이선스 전체를 이전하게 되며, 라이선스를 분할하여 이전하는 기능은 지원되지 않습니다. 또한, 이미 라이스를 보유하고 있는 ID 계정으로의 이전은 불가합니다.
 
-ID 계정 변경 요청시 '변경 이전 ID, 변경 이후 ID' 정보를 반드시 적시하여 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 보내주시기 바랍니다.
+ID 계정 변경이 필요하면 '변경 이전 ID 및 변경 이후 ID' 정보를 반드시 적시하여 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하기 바랍니다.
 
 ### **패스워드 변경**
 
@@ -102,7 +102,7 @@ _주의: 제3 로그인 계정이 삭제될 경우 email ID를 기본 계정으�
 
 ### **인보이스 링크**
 
-개별 구매 및 환불 건에 대한 인보이스 링크를 [**Accounts category in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 에서 확인할 수 있습니다. 해당 건을 클릭 한 이후에 다운로드 또는 프린트하여 사용하시면 됩니다.
+개별 구매 및 환불 건에 대한 인보이스 링크를 어카운트 페이지의 [**Accounts**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 항목에서 확인할 수 있습니다. 해당 건을 클릭 한 이후에 다운로드 또는 프린트하여 사용하시면 됩니다.
 
 ### **신용카드 변경**
 
@@ -112,7 +112,7 @@ _주의: 제3 로그인 계정이 삭제될 경우 email ID를 기본 계정으�
 
 1. BlueSnap username 수령 이후,  BlueSnap _(https://cp.bluesnap.com/jsp/account_login.jsp)_ 에 로그인하여 'payment method' 하단에 있는 'Change' 버튼을 클릭하며 필요한 정보를 변경하시기 바랍니다.
 
-_주의: 2018년 10월 2일 이전 구매자 (FastSpring 결제)는 정보 변경이 불가하오니, Bdrive [**고객지원 사이트**](#-13) (https://support.bdrive.com) 에 연락하시기 바랍니다._
+_주의: 2018년 10월 2일 이전 구매자 (FastSpring 결제)는 정보 변경이 불가하오니, [**Bdrive 고객지원 사이트**](#-13) (https://support.bdrive.com) 에 연락하시기 바랍니다._
 
 ### **구독 취소**
 
@@ -126,7 +126,7 @@ _주의: 2018년 10월 2일 이전 구매자 (FastSpring 결제)는 정보 변�
 
 사용자 ID 계정 삭제 요청시 Bdrive 시스템 내 모든 개인 정보를 삭제합니다.
 
-사용자 ID 계정 삭제를 원하면 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
+사용자 ID 계정 삭제가 필요하면 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
 
 ### **환불 정책**
 
@@ -134,7 +134,7 @@ Bdrive는 구매 _**14일 이내**_ 건에 한하여 전액 환불을 진행합�
 
 환불은 구매시 사용된 동일한 방법으로 진행되며, 카드사 정책에 따라 통상 3-10일 가량 소요됩니다.
 
-환불을 원하면 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
+환불이 필요하면 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
 
 ### **고객지원 사이트**
 
