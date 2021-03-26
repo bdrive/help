@@ -57,7 +57,7 @@ Information can be found in [**Team License**](https://www.netdrive.net/support/
 
 ### **Account Site**
 
-Each customer needs to [**Create Account ID**](#create-account-id) prior to purchase and login to NetDrive3 software. Account Site is [**https://accounts.bdrive.com**](https://accounts.bdrive.com) and includes Login Information, [**Reset Password**](#reset-password), [**Change Login Method**](#change-login-method), [**Invoice Link**](#invoice-link), [**Add License**](2-11-license#add-license), [**Add Team Member**](#add-team-member), [**Support Site**](#support-site), etc.
+Each customer needs to [**Create Account ID**](#create-account-id) prior to purchase and login to NetDrive3 software. Account Site is [**https://accounts.bdrive.com**](https://accounts.bdrive.com) and includes Login Information, [**Reset Password**](#reset-password), [**Change Login Method**](#change-login-method), [**Invoice Link**](#invoice-link), [**Add License**](#add-license), [**Support Site**](#support-site), etc.
 
 ### **Subscription Auto-Renewal**
 
