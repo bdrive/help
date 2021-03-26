@@ -35,7 +35,7 @@ _주의: Personal 평생 라이선스는 1년/평생 옵션이 제공되지만, 
 ### **라이선스 추가**
 
 라이선스 추가 구매는 기존에 구매한 라이선스에 연계하여 '추가 가격'으로 구매 할 수 있습니다. 
-추가 구매는 어카운트 페이지의 [**License**](https://accounts.bdrive.com/plans_products/NetDrive3) _(https://accounts.bdrive.com/plans_products/NetDrive3)_ 항목에서 진행 할 수 있습니다.
+추가 구매는 어카운트 페이지의 [**License**](https://accounts.bdrive.com/plans_products/NetDrive3) 항목에서 진행 할 수 있습니다.
 
 라이선스 추가 구매를 할 경우, 아래 절차가 진행됩니다 :
 
@@ -111,7 +111,7 @@ _주의: 제3의 로그인 계정이 삭제될 경우 email ID를 기본 계정�
 
 1. 우선, [**Bdrive 고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 문의를 통해 BlueSnap 사이트의 'pre-generated username' 및 'password' 를 요청하세요. (BlueSnap username은 Bdrive account ID와 다릅니다).
 
-1. BlueSnap username 수령 이후,  BlueSnap _(https://cp.bluesnap.com/jsp/account_login.jsp)_ 에 로그인하여 'payment method' 하단에 있는 'Change' 버튼을 클릭 한 이후, 필요한 카드 정보를 변경하시기 바랍니다.
+1. BlueSnap username 수령 이후,  [BlueSnap](https://cp.bluesnap.com/jsp/account_login.jsp)에 로그인하여 'payment method' 하단에 있는 'Change' 버튼을 클릭 한 이후, 필요한 카드 정보를 변경하시기 바랍니다.
 
 _주의: 2018년 10월 2일 이전 FastSpring 구매자는 정보 변경이 불가하오니 [**Bdrive 고객지원 사이트**](#-13) 에 연락하시기 바랍니다._
 
