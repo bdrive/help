@@ -16,7 +16,7 @@ NetDrive3는 Personal 및 Team 의 두 종류의 플랜이 있습니다 ([**Bdri
 
 - [‘**Personal**’](http://www.netdrive.net/store/store/) 플랜은 라이선스 구매 갯수에 상관없이 단일 ID 계정으로 구매, 로그인 하면 됩니다. 여러개의 라이선스를 구매할 경우 여러 장치에서 _동일한 드라이브 아이템_ 을 공유하게 되고, 동일한 장치 내 여러 윈도우 이용자들이 사용할 경우 마운트된 드라이브와 컨텐트를 모두 공유합니다.
 
-- [‘**Team**’](http://www.netdrive.net/store/#nav-2) 플랜은 팀 멤버별 고유 ID 계정을 개설하여 각각 로그인 하면 됩니다. 구매가 성공적으로 마무리되면, Team admin은 멤버 추가 [**Add Team Member**](/support/?type=documents&page=team&from=local#add-team-member) 를 [**어카운트 페이지**](#-4) _(https://accounts.bdrive.com)_ 에서 반드시 진행하여야 멤버들이 사용할 수 있게 됩니다. Personal 플랜과 달리, 모든 Team 멤버들은 _각자의 드라이브 아이템_ 을 보유하며 이들은 동일한 장치 내 다른 윈도우 시용자들과 공유하지 않습니다.
+- [‘**Team**’](http://www.netdrive.net/store/#nav-2) 플랜은 팀 멤버별 고유 ID 계정을 개설하여 각각 로그인 하면 됩니다. 라이선스 구매가 성공적으로 마무리되면, Team admin은 [**Team License**](/support/?type=documents&page=team&from=local#add-team-member) 를 참고하시어 [**어카운트 페이지**](#-4) _(https://accounts.bdrive.com)_ 에서 Team 멤버 추가를 반드시 진행하여야 라이선스 사용이 가능하게 됩니다. Personal 플랜과 달리, 모든 Team 멤버들은 _각자의 드라이브 아이템_ 을 보유하며 이들은 동일한 장치 내 다른 윈도우 시용자들과 공유하지 않습니다.
  
 ### **라이선스 종류**
 
@@ -53,12 +53,12 @@ _주의: [**환불 정책**](#-12)에 따라 구매일 2주 이내인 경우에�
 
 ### **Team 메뉴얼**
 
-Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 등의 상세정보는 [**Team 라이선스**](https://www.netdrive.net/support/?type=documents&page=team) 을 참고하시기 바랍니다. 
+Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 등의 상세정보는 [**Team 라이선스**](https://www.netdrive.net/support/?type=documents&page=team) 를 참고하시기 바랍니다. 
 
 
 ### **어카운트 페이지**
 
-모든 사용자는 구매 및 사용 이전에 [**ID 계정 등록**](#id) 을 필수적으로 진행하여야 합니다. 어카운트 페이지는 [**https://accounts.bdrive.com**](https://accounts.bdrive.com) 이며 로그인 정보, [**패스워드 변경**](#-7), [**로그인 방식 변경**](#-8), [**인보이스 링크**](#-9), [**라이선스 추가**](-3), [**Add Team Member**](#add-team-member), [**고객지원 사이트**](#-13), etc.
+모든 사용자는 구매 및 사용 이전에 [**ID 계정 등록**](#id) 을 필수적으로 진행하여야 합니다. 사용자 어카운트 페이지는 [**https://accounts.bdrive.com**](https://accounts.bdrive.com) 이며, 로그인 정보, [**패스워드 변경**](#-7), [**로그인 방식 변경**](#-8), [**인보이스 링크**](#-9), [**라이선스 추가**](-3), [**고객지원 사이트**](#-13) 등 다양한 사용자 정보를 관리할 수 있습니다.
 
 ### **구독 자동 결제**
 
