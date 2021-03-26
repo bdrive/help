@@ -62,63 +62,63 @@ Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 관�
 
 ### **구독 자동 결제**
 
-연간 구독은 최초 결제일에 매년 동일한 결제 방식으로 자동결제 됩니다. 자동결제 직후 email ID 계정으로 구독정보가 보내집니다.
+연간 구독은 최초 결제일에 매년 동일한 결제 방식, 금액으로 자동결제 됩니다. 자동결제 직후 email ID 계정으로 구독 정보가 보내집니다.
 
-자동결제 7일 전 즈음 갱신 알림 이메일을 ID 계정으로 보내니, 사용자께서는 신용카드 만료일 등의 중요 내용을 확인하시기 권유드립니다. 자동결제 실패하면 라이선스 취소가 즉시 진행되기어 라이선스 사용이 어렵게 됩니다. 신용카드 변경이 필요하면 [**신용카드 변경**](#-10)을 확인하시기 바랍니다.
+자동결제 7일 전 즈음 갱신 알림 이메일을 ID 계정으로 보내니, 사용자께서는 신용카드 만료일 등의 중요 내용을 확인하시기를 권유드립니다. 자동결제가 실패하면 라이선스가 즉시 취소되기어 라이선스 사용이 어렵게 됩니다. 신용카드 변경이 필요하면 [**신용카드 변경**](#-10)을 확인 후 변경하시기 바랍니다.
 
-부득이하게 구독 취소가 필요하면, [**구독 취소**](#-11) 및 [**환불 정책**](#-12) 을 사전에 확인하신 이후에 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하h기 바랍니다.
+부득이하게 구독 취소가 필요하면, [**구독 취소**](#-11) 및 [**환불 정책**](#-12) 을 사전에 확인하신 이후에 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
 
 ### **평생 서포트 옵션**
 
-평생 라이선스의 1년 기술지원 및 업테이트가 종료된 경우, 1년 또는 평생 옵션을 선택하여 서포트를 구매할 수 있는 기능을 지원합니다. 서포트 구매는 [**https://accounts.bdrive.com/plans_products/NetDrive3/extend_support**](https://accounts.bdrive.com/plans_products/NetDrive3/extend_support) 에서 언제나 진행할 수 있습니다.
+평생 라이선스의 1년 기술지원 및 업테이트가 종료된 경우, 차후에라도 1년 또는 평생 옵션으로 서포트 구매를 할 수 있습니다. 서포트 구매는 [**https://accounts.bdrive.com/plans_products/NetDrive3/extend_support**](https://accounts.bdrive.com/plans_products/NetDrive3/extend_support) 에서 언제나 진행할 수 있습니다.
 
-참고로, 다수의 라이선스를 보유하는 경우, 평생 서포트 구매는 다수 라이선스 전체에 적용되며 라이선스당 서포트 구매는 불가합니다.
+참고로, 다수의 라이선스를 보유 중일 경우, 평생 서포트 구매시 다수 라이선스 '전체'에 적용되며 라이선스당 서포트 개별 구매는 불가합니다.
 
 ### **ID 계정 등록**
 
-NetDrive3 라이선스 구매 및 로그인 이전에, 모든 사용자는 Bdrive ID 계정 등록을 [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) 에서 진행하여야 합니다. ID 계정은 해당 email 을 통해 개인 확인이 되어야만 소프트웨어를 사용할 수 있습니다. 이 ID 계정은 이메일 송신, 라이선스 확인, 고객지원, 갱신 알림시 이용하는 가장 중요한 ID 입니다.
+NetDrive3 라이선스 구매 및 로그인 이전에, 모든 사용자는 Bdrive ID 계정 등록을 [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) 에서 진행하여야 합니다. ID 계정 등록이후 개인 확인이 완료되어야만 소프트웨어를 사용할 수 있습니다. 해당 ID 계정은 이메일 송신, 라이선스 확인, 고객지원, 갱신 알림 이메일 송신 등에 이용하는 가장 중요한 ID 입니다.
 
-제3 로그인 옵션으로 Facebook, Twitter, Google 이 지원되며, [**로그인 방식 변경**](#-8) 이 [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 에서 가능합니다.
+제3 로그인 옵션으로 Facebook, Twitter, Google 이 지원되며, [**로그인 방식 변경**](#-8) 은 어카운트 페이지의 [**Accounts**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 항목에서 가능합니다.
 
 아울러 [**ID 계정 변경**](#id-2) 및 [**패스워드 변경**](#-7) 기능도 지원합니다.
 
 ### **ID 계정 변경**
 
-현재 사용중인 ID 계정을 다른 '새로운' ID 계정으로 변경이 가능합니다. 새로운 ID는 반드시 [**ID 계정 등록**](#id)을 완료 한 이후에 변경이 가능합니다. ID 변경은 단순히 라이선스 소유자를 변경하는 것이므로, 기존 구매자의 정보(신용카드, 주소 등)는 유지됩니다.
+현재 사용중인 ID 계정을 다른 '새로운' ID 계정으로 변경하는 기능을 제공합니다. 새로운 ID는 반드시 [**ID 계정 등록**](#id)을 완료 한 이후에 변경이 가능합니다. ID 변경은 단순히 라이선스 소유자를 변경하는 것이므로, 기존 구매자의 정보(신용카드, 주소 등)는 유지됩니다.
 
-ID 계정 변경시 구매한 라이선스 전체를 이전하게 되며, 라이선스를 분할하여 이전하는 기능은 지원되지 않습니다. 또한, 이미 라이스를 보유하고 있는 ID 계정으로의 이전은 불가합니다.
+ID 계정 변경시 구매한 라이선스 전체를 이전하게 되며, 라이선스를 분할하여 이전하는 기능은 지원되지 않습니다. 또한, 이미 라이선스를 보유하고 있는 ID 계정으로의 이전은 불가합니다.
 
 ID 계정 변경이 필요하면 '변경 이전 ID 및 변경 이후 ID' 정보를 반드시 적시하여 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하기 바랍니다.
 
 ### **패스워드 변경**
 
-패스워드 분실 등으로 변경이 필요한 경우, 어카운트 페이지의 [**Accounts**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 항목에서 진행이 가능합니다. 패스워스 리셋은 사용자 ID 계정으로 보내진 이메일 확인을 통해서 완료 됩니다.
+패스워드 분실 등으로 변경이 필요한 경우, 어카운트 페이지의 [**Accounts**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 항목에서 진행이 가능합니다. 패스워스 변경 요청 이후 사용자 ID 계정으로 보내진 이메일에 표시되어 있는 패스워스 리셋을 통해서 변경 완료가 됩니다.
 
 ### **로그인 방식 변경**
 
-제3 로그인 옵션(Facebook, Twitter, Google)으로 계정 등록을 했을 경우, 차후에 다른 로그인 방식 또는 email ID 계정으로 [**Manage Your Login Methods in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 에서 변경이 가능합니다.
+제3의 로그인 옵션(Facebook, Twitter, Google)으로 계정 등록을 했을 경우, 차후에 다른 로그인 방식 또는 email ID 계정으로 변경이 가능합니다 (어카운트 페이지의 [**Manage**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 항목 참조).
 
-_주의: 제3 로그인 계정이 삭제될 경우 email ID를 기본 계정으로 사용하게 됩니다._
+_주의: 제3의 로그인 계정이 삭제될 경우 email ID를 기본 계정으로 사용하게 됩니다._
 
 ### **인보이스 링크**
 
-개별 구매 및 환불 건에 대한 인보이스 링크를 어카운트 페이지의 [**Accounts**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 항목에서 확인할 수 있습니다. 해당 건을 클릭 한 이후에 다운로드 또는 프린트하여 사용하시면 됩니다.
+개별 구매 및 환불 건에 대한 인보이스 링크는 어카운트 페이지의 [**Accounts**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 항목에서 확인할 수 있습니다. 해당 건을 클릭 한 이후에 다운로드 또는 프린트하여 사용하시면 됩니다.
 
 ### **신용카드 변경**
 
-사용자 신용카드 정보는 BlueSnap 사이트에서 변경이 가능합니다.
+기 사용한 신용카드 정보는 BlueSnap 사이트에서 변경이 가능합니다.
 
-1. 우선, [**Bdrive 고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 BlueSnap 사이트의 'pre-generated username' 및 'password' 를 요청하세요. (BlueSnap username은 Bdrive account ID와 다릅니다).
+1. 우선, [**Bdrive 고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 문의를 통해 BlueSnap 사이트의 'pre-generated username' 및 'password' 를 요청하세요. (BlueSnap username은 Bdrive account ID와 다릅니다).
 
-1. BlueSnap username 수령 이후,  BlueSnap _(https://cp.bluesnap.com/jsp/account_login.jsp)_ 에 로그인하여 'payment method' 하단에 있는 'Change' 버튼을 클릭하며 필요한 정보를 변경하시기 바랍니다.
+1. BlueSnap username 수령 이후,  BlueSnap _(https://cp.bluesnap.com/jsp/account_login.jsp)_ 에 로그인하여 'payment method' 하단에 있는 'Change' 버튼을 클릭 한 이후, 필요한 카드 정보를 변경하시기 바랍니다.
 
 _주의: 2018년 10월 2일 이전 구매자 (FastSpring 결제)는 정보 변경이 불가하오니, [**Bdrive 고객지원 사이트**](#-13) (https://support.bdrive.com) 에 연락하시기 바랍니다._
 
 ### **구독 취소**
 
-구독 취소 이전에 [**환불 정책**](#-12)을 우선 확인 하시기 바랍니다. 환불 정책은 [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ 에서도 참고할 수 있습니다 (영문).
+구독 취소 요청 이전에 [**환불 정책**](#-12)을 우선 확인 하시기 바랍니다. 환불 정책은 [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ 에서도 참고하실 수 있습니다 (영문).
 
-구매 14일 이전에 구독 취소 요청을 하시면, 구독 취소와 함께 환불이 진행됩니다.  구매 14일 이후에 구독 취소 요청을 하시면, 다음 해 구독의 자동 결제만 중단되고, 금번 구독에 대한 환불은 진행되지 않습니다. 
+구매 14일 이전에 구독 취소 요청을 하시면, 구독 취소와 함께 전액 환불이 진행됩니다.  구매 14일 이후에 구독 취소 요청을 하시면, 금번 구독에 대한 환불은 진행되지 않고 다음 해 구독의 자동 결제만 취소됩니다. 
 
 구독 취소가 필요하면  [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
 
@@ -142,7 +142,7 @@ Bdrive의 공식 고객지원 사이트는 [**https://support.bdrive.com**](http
 
 현재 운영중인 상품 카테고리는 NetDrive3 및 CloudSync 입니다. 편리성을 위해 서브 카테고리로 Technical Issues, Feature Request, How To and FAQ 를 운영합니다.
 
-Licenses & Payments 카테고리는 라이선스 지불, 가격, 종류 등 일반적인 문의를 위해 사용할 수 있습니다.
+기술 문의는 문의 티켓 접수순으로 기술팀에서 내용을 확인 한 이후, 해당 사용자에게 회신하게 됩니다. 경우에 따라, 심도있는 검토와 분석이 필요해서 회신 지연이 있을수 있습니다. 
+기술문의에 대한 추가 문의시, 항상 최초에 문의하신 티켓에 회신함으로서 기존 대화 내용을 언제든지 참고될 수 있도록 협조 부탁드립니다.
 
-기술문의 관련하여서는, 기술팀에서 문의티켓 접수순으로 내용을 확인한 이후 사용자에게 회신하게 됩니다. 경우에 따라, 심도있는 검토와 분석이 필요해서 회신 지연이 있을수 있습니다. 
-기술문의에 대한 답변시, 항상 최초로 문의하신 티켓에 회신함으로서 기존 대화 내용을 언제든지 참고될 수 있도록 협조 부탁드립니다.
+Licenses & Payments 카테고리는 라이선스 지불, 가격, 종류 등 일반적인 문의를 위해 사용할 수 있습니다.
