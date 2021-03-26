@@ -113,7 +113,7 @@ _주의: 제3의 로그인 계정이 삭제될 경우 email ID를 기본 계정�
 
 1. BlueSnap username 수령 이후,  BlueSnap _(https://cp.bluesnap.com/jsp/account_login.jsp)_ 에 로그인하여 'payment method' 하단에 있는 'Change' 버튼을 클릭 한 이후, 필요한 카드 정보를 변경하시기 바랍니다.
 
-_주의: 2018년 10월 2일 이전 구매자 (FastSpring 결제)는 정보 변경이 불가하오니, [**Bdrive 고객지원 사이트**](#-13) (https://support.bdrive.com) 에 연락하시기 바랍니다._
+_주의: 2018년 10월 2일 이전 FastSpring 구매자는 정보 변경이 불가하오니 [**Bdrive 고객지원 사이트**](#-13) 에 연락하시기 바랍니다._
 
 ### **구독 취소**
 
