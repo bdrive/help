@@ -53,7 +53,7 @@ _주의: [**환불 정책**](#refund-policy)에 따라 구매일 2주 이내인 
 
 ### **Team 메뉴얼**
 
-Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 등의 상세정보는 [**Team category**](2-100-team-manual) 을 참고하시기 바랍니다. 
+Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 등의 상세정보는 [**Team 라이선스**](https://www.netdrive.net/support/?type=documents&page=team) 을 참고하시기 바랍니다. 
 
 
 ### **어카운트 페이지**
