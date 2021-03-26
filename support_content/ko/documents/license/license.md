@@ -10,7 +10,7 @@ NetDrive3 소프트웨어 구매 및 로그인을 하기 위해서 모든 사용
 
 _주의: ID 계정에서는 한 종류의 라이선스 타입만 구매할 수 있습니다._
 
-### **라이서선스 플랜**
+### **라이선스 플랜**
 
 NetDrive3는 Personal 및 Team 의 두 종류의 플랜이 있습니다 ([**Bdrive 홈페이지**](http://www.netdrive.net/store) _(https://www.netdrive.net/store)_).
 
@@ -32,7 +32,7 @@ NetDrive3는 연간 구독 또는 평생 라이선스(일회성 구매) 방식�
 
 _주의: Personal Lifetime 플랜은 1년/평생 옵션이 제공되지만, Team Lifetime 플랜은 평생 옵션만 제공됩니다._
 
-### **라이서선스 추가**
+### **라이선스 추가**
 
 라이선스는 기존 구매에 연계하여 '라이선스 추가 가격'으로 구매 할 수 있습니다. 추가 구매는 [**License category in Account Site**](https://accounts.bdrive.com/plans_products/NetDrive3) _(https://accounts.bdrive.com/plans_products/NetDrive3)_ 에서 진행 할 수 있습니다.
 
