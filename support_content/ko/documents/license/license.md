@@ -6,7 +6,7 @@ NetDrive3 소프트웨어 구매 및 로그인을 하기 위해서 모든 사용
 
 ‘**라이선스**’ 장치와 무관하게 동시에 사용할 수 있는 소프트웨어 갯수를 의미하며, 모든 사용자는 필요한 만큼의 라이선스 갯수를 구매할 수 있습니다.
 
-라이선스 구매가 성공적으로 마무리되면, 사용자 ID 계정으로 인보이스 링크를 포함한 구매 확인 이메일이 즉시 발송됩니다. 각종 유용한 라이선스 정보들은 [**어카운트 페이지**](#account-page) _(https://accounts.bdrive.com)_ 에서도 확인이 가능합니다.
+라이선스 구매가 성공적으로 마무리되면, 사용자 ID 계정으로 인보이스 링크를 포함한 구매 확인 이메일이 즉시 발송됩니다. 각종 유용한 라이선스 정보들은 [**어카운트 페이지**](#-4) _(https://accounts.bdrive.com)_ 에서도 확인이 가능합니다.
 
 _주의: ID 계정에서는 한 종류의 라이선스 타입만 구매할 수 있습니다._
 
@@ -16,17 +16,17 @@ NetDrive3는 Personal 및 Team 의 두 종류의 플랜이 있습니다 ([**Bdri
 
 - [‘**Personal**’](http://www.netdrive.net/store/store/) 플랜은 라이선스 구매 갯수에 상관없이 단일 ID 계정으로 구매, 로그인 하면 됩니다. 여러개의 라이선스를 구매할 경우 여러 장치에서 _동일한 드라이브 아이템_ 을 공유하게 되고, 동일한 장치 내 여러 윈도우 이용자들이 사용할 경우 마운트된 드라이브와 컨텐트를 모두 공유합니다.
 
-- [‘**Team**’](http://www.netdrive.net/store/#nav-2) 플랜은 팀 멤버별 고유 ID 계정을 개설하여 각각 로그인 하면 됩니다. 구매가 성공적으로 마무리되면, Team admin은 멤버 추가 [**Add Team Member**](/support/?type=documents&page=team&from=local#add-team-member) 를 [**어카운트 페이지**](#account-page) _(https://accounts.bdrive.com)_ 에서 반드시 진행하여야 멤버들이 사용할 수 있게 됩니다. Personal 플랜과 달리, 모든 Team 멤버들은 _각자의 드라이브 아이템_ 을 보유하며 이들은 동일한 장치 내 다른 윈도우 시용자들과 공유하지 않습니다.
+- [‘**Team**’](http://www.netdrive.net/store/#nav-2) 플랜은 팀 멤버별 고유 ID 계정을 개설하여 각각 로그인 하면 됩니다. 구매가 성공적으로 마무리되면, Team admin은 멤버 추가 [**Add Team Member**](/support/?type=documents&page=team&from=local#add-team-member) 를 [**어카운트 페이지**](#-4) _(https://accounts.bdrive.com)_ 에서 반드시 진행하여야 멤버들이 사용할 수 있게 됩니다. Personal 플랜과 달리, 모든 Team 멤버들은 _각자의 드라이브 아이템_ 을 보유하며 이들은 동일한 장치 내 다른 윈도우 시용자들과 공유하지 않습니다.
  
 ### **라이선스 종류**
 
 NetDrive3는 연간 구독 또는 평생 라이선스(일회성 구매) 방식을 지원합니다.
 
-- ‘**연간 구독**’은 구독 기간동안 라이선스를 이용할 수 있으며, 기술지원과 버전 업데이트가 제공됩니다. [**구독 자동 갱신**](#subscription-auto-renewal) 정책에 따라 매년 갱신되며, 구매일에 동일한 구매방식으로 자동결제 됩니다.
+- ‘**연간 구독**’은 구독 기간동안 라이선스를 이용할 수 있으며, 기술지원과 버전 업데이트가 제공됩니다. [**구독 자동 갱신**](#-5) 정책에 따라 매년 갱신되며, 구매일에 동일한 구매방식으로 자동결제 됩니다.
 
 - ‘**평생 라이선스**’는 평생동안 라이선스를 이용할 수 있으며, 구매시 ‘_기술지원 및 버전 업데이트_’ 기간 선택을 1년 또는 평생 중 선택이 가능합니다.
 
-  - **‘1년’경우**, 라이선스는 평생 이용할 수 있으나 기술지원 및 버전 업데이트는 1년으로 제한됩니다. 다만, 1년 종료 후 또다시 기술지원 및 버전 업데이트를 필요로 할 경우 [**평생 서포트 옵션**](#lifetime-support-option)이 지원됩니다. 상세 정보는 ['What happens to my one-time license (prior product name of current Lifetime license with 1 year support) after 1 year?'](https://support.bdrive.com/t/what-happens-to-my-one-time-license-after-1-year/92018) 에서 참고하시기 바랍니다.
+  - **‘1년’경우**, 라이선스는 평생 이용할 수 있으나 기술지원 및 버전 업데이트는 1년으로 제한됩니다. 다만, 1년 종료 후 또다시 기술지원 및 버전 업데이트를 필요로 할 경우 [**평생 서포트 옵션**](#-6)이 지원됩니다. 상세 정보는 ['What happens to my one-time license (prior product name of current Lifetime license with 1 year support) after 1 year?'](https://support.bdrive.com/t/what-happens-to-my-one-time-license-after-1-year/92018) 에서 참고하시기 바랍니다.
 
   - **‘평생’ 경우**, 라이선스는 평생 이용할 수 있으며 기술지원과 버전 업데이트도 평생 지원됩니다.
 
@@ -34,11 +34,11 @@ _주의: Personal Lifetime 플랜은 1년/평생 옵션이 제공되지만, Team
 
 ### **라이선스 추가**
 
-라이선스는 기존 구매에 연계하여 '라이선스 추가 가격'으로 구매 할 수 있습니다. 추가 구매는 [**License category in Account Site**](https://accounts.bdrive.com/plans_products/NetDrive3) _(https://accounts.bdrive.com/plans_products/NetDrive3)_ 에서 진행 할 수 있습니다.
+라이선스는 기존 구매에 연계하여 '라이선스 추가 가격'으로 구매 할 수 있습니다. 추가 구매는 어카운트 페이지의 [**License**](https://accounts.bdrive.com/plans_products/NetDrive3) _(https://accounts.bdrive.com/plans_products/NetDrive3)_ 항목에서 진행 할 수 있습니다.
 
 라이선스 추가 구매를 할 경우, 아래의 절차가 진행됩니다 :
 
-- ‘**연간 구독**’ 경우, 기존(최근) 구독이 우선 자동 취소 되고, 해당 구독기간 중 미사용 일수에 해당하는 금액을 일할 계산하여 환불합니다. 그리고 추가된 최종 라이선스 갯수 가격에 해당하는 새로운 1년 구독이 생성됩니다. 이후 매년 라이선스 추가한 날짜에 동일한 구매방식으로 자동결제 됩니다. [**구독 자동 갱신**](#subscription-auto-renewal) 정보를 참조하시기 바랍니다.
+- ‘**연간 구독**’ 경우, 기존(최근) 구독이 우선 자동 취소 되고, 해당 구독기간 중 미사용 일수에 해당하는 금액을 일할 계산하여 환불합니다. 그리고 추가된 최종 라이선스 갯수 가격에 해당하는 새로운 1년 구독이 생성됩니다. 이후 매년 라이선스 추가한 날짜에 동일한 구매방식으로 자동결제 됩니다. [**구독 자동 갱신**](#-5) 정보를 참조하시기 바랍니다.
 
 - ‘**Lifetime License**’ 경우, 추가 라이선스 가격으로 일회성으로 라이선스 추가가 진행됩니다.
 
@@ -48,7 +48,7 @@ _주의: 연간 구독의 기술지원 및 버전 업데이트는 구독 기간�
 
 _주의: 연간 구독의 라이선스 삭제는 1일 1회로 제한합니다._
 
-_주의: [**환불 정책**](#refund-policy)에 따라 구매일 2주 이내인 경우에만 환불 진행이 가능합니다._
+_주의: [**환불 정책**](#-12)에 따라 구매일 2주 이내인 경우에만 환불 진행이 가능합니다._
 
 
 ### **Team 메뉴얼**
@@ -58,15 +58,15 @@ Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 등�
 
 ### **어카운트 페이지**
 
-모든 사용자는 구매 및 사용 이전에 [**ID 계정 등록**](#create-account-id) 을 필수적으로 진행하여야 합니다. 어카운트 페이지는 [**https://accounts.bdrive.com**](https://accounts.bdrive.com) 이며 로그인 정보, [**패스워드 변경**](#reset-password), [**로그인 방식 변경**](#change-login-method), [**인보이스 링크**](#invoice-link), [**라이선스 추가**](2-11-license#add-license), [**Add Team Member**](#add-team-member), [**고객지원 사이트**](#support-site), etc.
+모든 사용자는 구매 및 사용 이전에 [**ID 계정 등록**](#id) 을 필수적으로 진행하여야 합니다. 어카운트 페이지는 [**https://accounts.bdrive.com**](https://accounts.bdrive.com) 이며 로그인 정보, [**패스워드 변경**](#-8), [**로그인 방식 변경**](#change-login-method), [**인보이스 링크**](#-9), [**라이선스 추가**](-3), [**Add Team Member**](#add-team-member), [**고객지원 사이트**](#-13), etc.
 
 ### **구독 자동 결제**
 
 연간 구독은 최초 결제일에 매년 동일한 결제 방식으로 자동결제 됩니다. 자동결제 직후 email ID 계정으로 구독정보가 보내집니다.
 
-자동결제 7일 전 즈음 갱신 알림 이메일을 ID 계정으로 보내니, 사용자께서는 신용카드 만료일 등의 중요 내용을 확인하시기 권유드립니다. 자동결제 실패하면 라이선스 취소가 즉시 진행되기어 라이선스 사용이 어렵게 됩니다. 신용카드 변경이 필요하면 [**신용카드 변경**](#change-credit-card)을 확인하시기 바랍니다.
+자동결제 7일 전 즈음 갱신 알림 이메일을 ID 계정으로 보내니, 사용자께서는 신용카드 만료일 등의 중요 내용을 확인하시기 권유드립니다. 자동결제 실패하면 라이선스 취소가 즉시 진행되기어 라이선스 사용이 어렵게 됩니다. 신용카드 변경이 필요하면 [**신용카드 변경**](#-10)을 확인하시기 바랍니다.
 
-부득이하게 구독 취소가 필요한 경우, [**구독 취소**](#end-subscription) 및 [**환불 정책**](#refund-policy) 을 사전에 확인하신 이후에 [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 접수하여 주시기 바랍니다.
+부득이하게 구독 취소가 필요한 경우, [**구독 취소**](#-11) 및 [**환불 정책**](#-12) 을 사전에 확인하신 이후에 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 접수하여 주시기 바랍니다.
 
 ### **평생 서포트 옵션**
 
@@ -80,19 +80,19 @@ NetDrive3 라이선스 구매 및 로그인 이전에, 모든 사용자는 Bdriv
 
 제3 로그인 옵션으로 Facebook, Twitter, Google 이 지원되며, [**로그인 방식 변경**](#change-login-method) 이 [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 에서 가능합니다.
 
-아울러 [**ID 계정 변경**](#change-account-id) 및 [**패스워드 변경**](#reset-password) 기능도 지원합니다.
+아울러 [**ID 계정 변경**](#id-2) 및 [**패스워드 변경**](#-8) 기능도 지원합니다.
 
 ### **ID 계정 변경**
 
-현재 사용중인 ID 계정을 다른 '새로운' ID 계정으로 변경이 가능합니다. 새로운 ID는 반드시 [**ID 계정 등록**](#create-account-id)을 완료 한 이후에 변경이 가능합니다. ID 변경은 단순히 라이선스 소유자를 변경하는 것이므로, 기존 구매자의 정보(신용카드, 주소 등)는 유지됩니다.
+현재 사용중인 ID 계정을 다른 '새로운' ID 계정으로 변경이 가능합니다. 새로운 ID는 반드시 [**ID 계정 등록**](#id)을 완료 한 이후에 변경이 가능합니다. ID 변경은 단순히 라이선스 소유자를 변경하는 것이므로, 기존 구매자의 정보(신용카드, 주소 등)는 유지됩니다.
 
 ID 계정 변경시 구매한 라이선스 전체를 이전하게 되며, 라이선스를 분할하여 이전하는 기능은 지원되지 않습니다. 또한, 이미 라이스를 보유하고 있는 ID 계정으로의 이전은 불가합니다.
 
-ID 계정 변경 요청시 '변경 이전 ID, 변경 이후 ID' 정보를 반드시 적시하여 [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 보내주시기 바랍니다.
+ID 계정 변경 요청시 '변경 이전 ID, 변경 이후 ID' 정보를 반드시 적시하여 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 보내주시기 바랍니다.
 
 ### **패스워드 변경**
 
-패스워드 분실 등으로 변경이 필요한 경우, [**Accounts category in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 에서 진행이 가능합니다. 패스워스 리셋은 사용자 ID 계정으로 보내진 이메일 확인을 통해서 완료 됩니다.
+패스워드 분실 등으로 변경이 필요한 경우, 어카운트 페이지의 [**Accounts**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ 항목에서 진행이 가능합니다. 패스워스 리셋은 사용자 ID 계정으로 보내진 이메일 확인을 통해서 완료 됩니다.
 
 ### **로그인 방식 변경**
 
@@ -108,25 +108,25 @@ _주의: 제3 로그인 계정이 삭제될 경우 email ID를 기본 계정으�
 
 사용자 신용카드 정보는 BlueSnap 사이트에서 변경이 가능합니다.
 
-1. 우선, [**Bdrive 고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 BlueSnap 사이트의 'pre-generated username' 및 'password' 를 요청하세요. (BlueSnap username은 Bdrive account ID와 다릅니다).
+1. 우선, [**Bdrive 고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 BlueSnap 사이트의 'pre-generated username' 및 'password' 를 요청하세요. (BlueSnap username은 Bdrive account ID와 다릅니다).
 
 1. BlueSnap username 수령 이후,  BlueSnap _(https://cp.bluesnap.com/jsp/account_login.jsp)_ 에 로그인하여 'payment method' 하단에 있는 'Change' 버튼을 클릭하며 필요한 정보를 변경하시기 바랍니다.
 
-_주의: 2018년 10월 2일 이전 구매자 (FastSpring 결제)는 정보 변경이 불가하오니, Bdrive [**고객지원 사이트**](#support-site) (https://support.bdrive.com) 에 연락하시기 바랍니다._
+_주의: 2018년 10월 2일 이전 구매자 (FastSpring 결제)는 정보 변경이 불가하오니, Bdrive [**고객지원 사이트**](#-13) (https://support.bdrive.com) 에 연락하시기 바랍니다._
 
 ### **구독 취소**
 
-구독 취소 이전에 [**환불 정책**](#refund-policy)을 우선 확인 하시기 바랍니다. 환불 정책은 [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ 에서도 참고할 수 있습니다 (영문).
+구독 취소 이전에 [**환불 정책**](#-12)을 우선 확인 하시기 바랍니다. 환불 정책은 [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ 에서도 참고할 수 있습니다 (영문).
 
 구매 14일 이전에 구독 취소 요청을 하시면, 구독 취소와 함께 환불이 진행됩니다.  구매 14일 이후에 구독 취소 요청을 하시면, 다음 해 구독의 자동 결제만 중단되고, 금번 구독에 대한 환불은 진행되지 않습니다. 
 
-구독 취소가 필요하면  [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
+구독 취소가 필요하면  [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
 
 ### **ID 계정 삭제**
 
 사용자 ID 계정 삭제 요청시 Bdrive 시스템 내 모든 개인 정보를 삭제합니다.
 
-사용자 ID 계정 삭제를 원하면 [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
+사용자 ID 계정 삭제를 원하면 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
 
 ### **환불 정책**
 
@@ -134,7 +134,7 @@ Bdrive는 구매 _**14일 이내**_ 건에 한하여 전액 환불을 진행합�
 
 환불은 구매시 사용된 동일한 방법으로 진행되며, 카드사 정책에 따라 통상 3-10일 가량 소요됩니다.
 
-환불을 원하면 [**고객지원 사이트**](#support-site) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
+환불을 원하면 [**고객지원 사이트**](#-13) _(https://support.bdrive.com)_ 에 연락하시기 바랍니다.
 
 ### **고객지원 사이트**
 
