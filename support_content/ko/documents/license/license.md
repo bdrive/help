@@ -18,7 +18,7 @@ NetDrive3는 Personal 및 Team 의 두 종류의 플랜이 있습니다 ([**Bdri
 
 - [‘**Team**’](http://www.netdrive.net/store/#nav-2) 플랜은 팀 멤버별 고유 ID 계정을 개설하여 각각 로그인 하면 됩니다. 구매가 성공적으로 마무리되면, Team admin은 멤버 추가 [**Add Team Member**](/support/?type=documents&page=team&from=local#add-team-member) 를 [**어카운트 페이지**](#account-page) _(https://accounts.bdrive.com)_ 에서 반드시 진행하여야 멤버들이 사용할 수 있게 됩니다. Personal 플랜과 달리, 모든 Team 멤버들은 _각자의 드라이브 아이템_ 을 보유하며 이들은 동일한 장치 내 다른 윈도우 시용자들과 공유하지 않습니다.
  
-### **라이서선스 종류**
+### **라이선스 종류**
 
 NetDrive3는 연간 구독 또는 평생 라이선스(일회성 구매) 방식을 지원합니다.
 
