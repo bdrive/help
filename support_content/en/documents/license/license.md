@@ -52,7 +52,7 @@ _Note: Refund can be proceeded within 2 weeks of purchased day based on our [**R
 
 ### **Team Manual**
 
-Information can be found in [**Team category**](https://www.netdrive.net/support/?type=documents&page=team) including how to add Team members, add Team Licenses and Team Features.
+Information can be found in [**Team License**](https://www.netdrive.net/support/?type=documents&page=team) including how to add Team members, add Team Licenses and Team Features.
 
 
 ### **Account Site**
