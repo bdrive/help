@@ -34,7 +34,7 @@ _Note: Personal plan offers both 1 year and lifetime support option whereas Team
 
 ### **Add License**
 
-License can be added to initial purchase order at 'Add license' price. The purchase can be proceeded in [**License category in Account Site**](https://accounts.bdrive.com/plans_products/NetDrive3) _(https://accounts.bdrive.com/plans_products/NetDrive3)_.
+License can be added to initial purchase order at 'Add license' price. The purchase can be proceeded in [**License category in Account Site**](https://accounts.bdrive.com/plans_products/NetDrive3).
 
 When placing an add license order, the followings will be proceeded :
 
@@ -105,7 +105,7 @@ We provide invoice link of each purchase order in [**Accounts category in Accoun
 
 ### **Change Credit Card**
 
-User credit card information can be updated by logging in to our payment gateway, BlueSnap account _(https://cp.bluesnap.com/jsp/account_login.jsp)_.
+User credit card information can be updated by logging in to our payment gateway, BlueSnap account (https://cp.bluesnap.com/jsp/account_login.jsp).
 
 1. Prior to this change, write to [**Bdrive Support Site**](#support-site) _(https://support.bdrive.com)_ to find pre-generated username and password of BlueSnap. This is different from Bdrive account ID and password.
 
