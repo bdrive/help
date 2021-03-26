@@ -105,7 +105,7 @@ We provide invoice link of each purchase order in [**Accounts category in Accoun
 
 ### **Change Credit Card**
 
-User credit card information can be updated by logging in to our payment gateway, BlueSnap account (https://cp.bluesnap.com/jsp/account_login.jsp).
+User credit card information can be updated by logging in to our payment gateway, [BlueSnap account](https://cp.bluesnap.com/jsp/account_login.jsp).
 
 1. Prior to this change, write to [**Bdrive Support Site**](#support-site) _(https://support.bdrive.com)_ to find pre-generated username and password of BlueSnap. This is different from Bdrive account ID and password.
 
