@@ -34,7 +34,8 @@ _주의: Personal 평생 라이선스는 1년/평생 옵션이 제공되지만, 
 
 ### **라이선스 추가**
 
-라이선스 추가 구매는 기존에 구매한 라이선스에 연계하여 '추가 가격'으로 구매 할 수 있습니다. 추가 구매는 어카운트 페이지의 [**License**](https://accounts.bdrive.com/plans_products/NetDrive3) _(https://accounts.bdrive.com/plans_products/NetDrive3)_ 항목에서 진행 할 수 있습니다.
+라이선스 추가 구매는 기존에 구매한 라이선스에 연계하여 '추가 가격'으로 구매 할 수 있습니다. 
+추가 구매는 어카운트 페이지의 [**License**](https://accounts.bdrive.com/plans_products/NetDrive3) _(https://accounts.bdrive.com/plans_products/NetDrive3)_ 항목에서 진행 할 수 있습니다.
 
 라이선스 추가 구매를 할 경우, 아래 절차가 진행됩니다 :
 
