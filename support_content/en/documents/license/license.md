@@ -75,7 +75,8 @@ If purchased multiple license quantities, the lifetime support option can only b
 
 ### **Create Account ID**
 
-Prior to purchase or login to NetDrive3, every customer needs to create their own Bdrive account ID and set password in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup). This account ID is required to be verified (in the email sent) before using the software. This account ID is primary identification we use to send email verification, license confirmation, support contact, renewal notification, etc.
+Prior to purchase or login to NetDrive3, every customer needs to create their own Bdrive account ID and set password in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup). This account ID is required to be verified (in the email sent) before using the software. If you didn't receive the verification email, retry to login to [**Account Page**](https://accounts.bdrive.com) using the account ID which then will re-send the verification email. Don't forget to check the spambox, too.
+This account ID is primary identification we use to send email verification, license confirmation, support contact, renewal notification, etc.
 
 Third party login option of Facebook, Twitter, or Google is provided, and [**Change Login Method**](#change-login-method) is also available in [**Accounts category of Account Page**](https://accounts.bdrive.com/accounts/social/connections).
 
