@@ -42,7 +42,9 @@ Team 라이선스 '3개'를 사용해 볼 수 있는 7일간의 무료 트라이
 
 1.[어카운트 페이지](https://accounts.bdrive.com) 에서 Team Admin ID로 로그인 한 이후, [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) 의 ‘Domains’ 탭으로 이동하여 해당 Domain을 등록바랍니다 (최대 2개)
     <img class="markdown" src="https://doc.bdrive.com/images/by_domains.png">
+
 2. Team Admin ID로 보내진 이메일에서 본인 확인을 반드시 진행하여야 합니다
+
 3. ‘Members’ 탭으로 이동하여 멤버 추가 및 라이선스 갯수 설정을 진행하세요 (Team 멤버 추가 참고)
    * Team 멤버 ID는 해당 Domain 주소 사용 여부와 무관하게 어느 주소여도 가능합니다 
    * Domain 등록이 완성되면, 해당 Domain 을 사용하는 ID 계정 기 등록자들은 자동으로 Team의 멤버가 됩니다. 만약 원치 않는 사용자가 표시될 경우 반드시 개별적으로 멤버를 삭제하시기 바랍니다
