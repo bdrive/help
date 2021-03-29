@@ -22,8 +22,8 @@ Team 라이선스 '3개'를 사용해 볼 수 있는 7일간의 무료 트라이
    * 멤버 수가 매우 많을 경우 등록 대행을 지원해 드립니다 (CSV 파일)
     <img class="markdown" src="https://doc.bdrive.com/images/by_members_netdrive.png">
 3. 모든 Team 멤버는 소프트웨어 사용에 앞서 이메일 계정으로 보내진 ‘본인 확인’ 을 반드시 진행해야 합니다
-   * 모든 Team 멤버는 각자의 ID 계정을 [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) 에서 등록하고, 이후 보내지는 이메일을 통해 본인 확인을 해야합니다
-   * Team 멤버 추가시점에 해당 멤버의 ID 계정이 아직 미개설 상황이라면, 이메일로 보내진 '임시 비밀번호'를 사용하여 로그인을 하시기 바랍니다. 임시 비밀번호는  [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 에서 반드시 변경하시기 바랍니다 
+   * 모든 Team 멤버는 각자의 [ID 계정 등록](https://accounts.bdrive.com/accounts/signup) 을 진행하고, 이후 보내지는 이메일을 통해 본인 확인을 해야합니다
+   * Team 멤버 추가시점에 해당 멤버의 ID 계정이 아직 미개설 상황이라면, 이메일로 보내진 '임시 비밀번호'를 사용하여 로그인을 하시기 바랍니다. 임시 비밀번호는 반드시 [패스워드 변경](https://accounts.bdrive.com/accounts/password/reset) 을 진행하기 바랍니다 
    * ID 계정 등록 이후 **본인 확인 이메일 미수령** 시, [어카운트 페이지](https://accounts.bdrive.com) 에서 해당 ID로 로그인 재시도를 하면 이메일이 재송신 됩니다. 스팸메일도 확인하시기 바랍니다 
 4. Team Admin / Team Maintainer 역할
    * Team Admin: Team 어카운트 관리
