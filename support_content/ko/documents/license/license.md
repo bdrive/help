@@ -77,7 +77,8 @@ Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 관�
 
 ### **ID 계정 등록**
 
-NetDrive3 라이선스 구매 및 로그인 이전에, 모든 사용자는 Bdrive ID 계정 등록을 [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) 에서 진행하여야 합니다. ID 계정 등록이후 개인 확인이 완료되어야만 소프트웨어를 사용할 수 있습니다. 해당 ID 계정은 이메일 송신, 라이선스 확인, 고객지원, 갱신 알림 이메일 송신 등의 고객지원 업무시 이용하는 가장 기본적인 ID 입니다.
+NetDrive3 라이선스 구매 및 로그인 이전에, 모든 사용자는 Bdrive ID 계정 등록을 [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) 에서 진행하여야 합니다. ID 계정 등록이후 본인 확인이 완료되어야만 소프트웨어를 사용할 수 있습니다. ID 계정 등록 이후 본인 확인 이메일 미수령시, 어카운트 페이지 [**https://accounts.bdrive.com**](https://accounts.bdrive.com) 에서 해당 ID로 로그인 재시도를 하면 이메일이 재송신 됩니다. 스팸메일도 확인하시기 바랍니다.
+해당 ID 계정은 이메일 송신, 라이선스 확인, 고객지원, 갱신 알림 이메일 송신 등의 고객지원 업무시 이용하는 가장 기본적인 ID 입니다.
 
 제3 로그인 옵션으로 Facebook, Twitter, Google 이 지원되며, [**로그인 방식 변경**](#-8) 은 어카운트 페이지의 [**Accounts**](https://accounts.bdrive.com/accounts/social/connections) 항목에서 가능합니다.
 
