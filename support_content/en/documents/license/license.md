@@ -142,4 +142,6 @@ We run categories for our products, NetDrive3, CloudSync and NetDrive2. For easi
 
 Licenses & Payments category is available for general license inquiries as well. User can use private messages which will be sent to staff members directly.
 
-As soon as our technical staffs check user support tickets, they review and reply in their earliest time. Sometimes issues needs to be tested and further analyzed which causes the delay. For ongoing (not closed) support inquiries, it is highly recommended to reply to the latest ticket (or email) which includes entire chain of previous conversations, shortening our reviewing time.
+As soon as our technical staffs check user support tickets, they review and reply in their earliest time. Sometimes issues needs to be tested and further analyzed which causes the delay. 
+
+For ongoing (not closed) support inquiries, it is highly recommended to reply to the latest ticket (or email) which includes entire chain of previous conversations, shortening our reviewing time.
