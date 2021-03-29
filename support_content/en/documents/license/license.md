@@ -54,7 +54,6 @@ _Note: Refund can be proceeded within 2 weeks of purchased day based on our [**R
 
 Information can be found in [**Team License**](https://www.netdrive.net/support/?type=documents&page=team) including how to add Team members, add Team Licenses and Team features.
 
-
 ### **Account Page**
 
 Each customer needs to [**Create Account ID**](#create-account-id) prior to purchase and login to NetDrive3 software. Account Page is [**https://accounts.bdrive.com**](https://accounts.bdrive.com) and includes Login Information, [**Reset Password**](#reset-password), [**Change Login Method**](#change-login-method), [**Invoice Link**](#invoice-link), [**Add License**](#add-license), [**Support Site**](#support-site), etc.
