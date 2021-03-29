@@ -1,12 +1,10 @@
 ### **Team 라이선스**
 
-**1개의 라이선스를 구매 할 경우, 1개의 장치에서 동시 접속 할 수 있습니다.**.  
-2개의 라이선스를 구매하면, 최대 2개의 장치에서 동시 사용할 수 있습니다.
+1개의 라이선스를 구매 할 경우, 1개의 장치에서 동시 접속 할 수 있습니다. 2개의 라이선스를 구매하면, 최대 2개의 장치에서 동시 사용할 수 있습니다.
 현재 사용중인 장치가 아닌 다른 장치에서 NetDrive3 를 사용해야 한다면 [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 장치 변경을 진행할 수 있습니다. 
 만약 여러 장시에서 동시에 라이센스를 사용해야 한다면, 필요한 장치수 만큼의 라이선스 갯수를 구매해야 합니다.<br>
 
-**Team 라이선스 구매는 Team Admin이 진행합니다.** 
-Team 라이선스 구매에 앞서, Team Admin 은 ID 계정을 [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) 에서 생성해야 하고, 이메일로 보내지는 본인 확인을 반드시 진행해야 합니다.  라이선스 구매가 성공적으로 완료되면, Team Admin은 [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 멤버 추가를 진행해야 합니다.<br><br>
+Team 라이선스 구매는 Team Admin이 진행합니다. Team 라이선스 구매에 앞서, Team Admin 은 ID 계정을 [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) 에서 생성해야 하고, 이메일로 보내지는 본인 확인을 반드시 진행해야 합니다.  라이선스 구매가 성공적으로 완료되면, Team Admin은 [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 멤버 추가를 진행해야 합니다.<br><br>
 
 ### **Team 트라이얼**
 Team 라이선스 '3개'를 사용해 볼 수 있는 7일간의 무료 트라이얼을 지원합니다. 트라이얼 버전 다운로드는 [https://www.netdrive.net/store]( https://www.netdrive.net/store) 와 [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) 에서 가능합니다.
@@ -40,7 +38,7 @@ Team 라이선스 '3개'를 사용해 볼 수 있는 7일간의 무료 트라이
       * Team Drives Republish/Unpublish
    * 참고: Team Admin 은 Team Maintainer 역할을 기본적으로 수행하며, 변경 필요시 [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) 에서 진행하시면 됩니다<br><br>
    
-**(옵션)**  Team Domain 을 통한 멤버 추가 기능
+**(옵션: Team Domain을 통한 멤버 추가)**
 
 1.[어카운트 페이지](https://accounts.bdrive.com) 에서 Team Admin ID로 로그인 한 이후, [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) 의 ‘Domains’ 탭으로 이동하여 해당 Domain을 등록바랍니다 (최대 2개)
     <img class="markdown" src="https://doc.bdrive.com/images/by_domains.png">
