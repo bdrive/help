@@ -1,19 +1,19 @@
 ### **Team 라이선스**
 
 1개의 라이선스를 구매 할 경우, 1개의 장치에서 동시 접속 할 수 있습니다. 2개의 라이선스를 구매하면, 최대 2개의 장치에서 동시 사용할 수 있습니다.
-현재 사용중인 장치가 아닌 다른 장치에서 NetDrive3 를 사용해야 한다면 [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 장치 변경을 진행할 수 있습니다. 
+현재 사용중인 장치가 아닌 다른 장치에서 NetDrive3 를 사용해야 한다면 [어카운트 페이지](https://accounts.bdrive.com) 에서 장치 변경을 진행할 수 있습니다. 
 만약 여러 장시에서 동시에 라이센스를 사용해야 한다면, 필요한 장치수 만큼의 라이선스 갯수를 구매해야 합니다.<br>
 
-Team 라이선스 구매는 Team Admin이 진행합니다. Team 라이선스 구매에 앞서, Team Admin 은 ID 계정을 [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) 에서 생성해야 하고, 이메일로 보내지는 본인 확인을 반드시 진행해야 합니다.  라이선스 구매가 성공적으로 완료되면, Team Admin은 [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 멤버 추가를 진행해야 합니다.<br><br>
+Team 라이선스 구매는 Team Admin이 진행합니다. Team 라이선스 구매에 앞서, Team Admin 은 [ID 계정 등록](https://accounts.bdrive.com/accounts/signup) 을 해야 하고, 이메일로 보내지는 본인 확인을 반드시 진행해야 합니다.  라이선스 구매가 성공적으로 완료되면, Team Admin은 [어카운트 페이지](https://accounts.bdrive.com) 에서 멤버 추가를 진행해야 합니다.<br><br>
 
 ### **Team 트라이얼**
-Team 라이선스 '3개'를 사용해 볼 수 있는 7일간의 무료 트라이얼을 지원합니다. 트라이얼 버전 다운로드는 [https://www.netdrive.net/store]( https://www.netdrive.net/store) 와 [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) 에서 가능합니다.
+Team 라이선스 '3개'를 사용해 볼 수 있는 7일간의 무료 트라이얼을 지원합니다. 트라이얼 버전 다운로드는 [Brive 홈페이지]( https://www.netdrive.net/store) 와 [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) 에서 가능합니다.
 
 <img class="markdown" src="https://doc.bdrive.com/images/trial_netdrive.png" alt="Trial NetDrive">
 
 ### **Team 멤버 추가**
 
-1. [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 Team Admin ID로 로그인 한 이후, Plans & Products 카테고리에 있는 ‘Manage’ 버튼을 클릭하세요
+1. [어카운트 ](https://accounts.bdrive.com) 에서 Team Admin ID로 로그인 한 이후, Plans & Products 카테고리에 있는 ‘Manage’ 버튼을 클릭하세요
     <img class="markdown" src="https://doc.bdrive.com/images/plans_products_netdrive.png">
     <img class="markdown" src="https://doc.bdrive.com/images/plans_products_team.png">
 2. Team 멤버의 ID 계정을 페이지 하단에서 추가하고, 멤버별 라이선스 갯수도 설정하세요
@@ -62,7 +62,7 @@ Team 라이선스 '3개'를 사용해 볼 수 있는 7일간의 무료 트라이
      * 총 라이선스 갯수에 맞는 1년 기간의 새로운 연간 구독이 발행됩니다 
    * 평생 라이센스
       * 라이선스 추가 가격에 해당하는 새로운 라이선스가 추가됩니다 
-5. 인보이스링크: [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br>
+5. 인보이스 링크: [인보이스 링크](https://accounts.bdrive.com/accounts/invoices)<br><br>
 
 ### **Team 매뉴얼**
 
