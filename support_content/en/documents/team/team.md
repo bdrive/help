@@ -24,7 +24,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
    * Optionally, we assist to register multiple Team members if you send us CSV file
     <img class="markdown" src="https://doc.bdrive.com/images/by_members_netdrive.png">
 3. Team Members need to check ‘Email Verification’ before using the software
-   * Each member needs to create account ID in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
+   * Each member needs to [Create Account ID](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
    * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [Password Reset](https://accounts.bdrive.com/accounts/password/reset) 
    * **If verification email is not received**, once again try to login to [Account Page](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email. Check spam box, too.
 4. Note: Distinct role of Team Admin / Team Maintainer
@@ -64,7 +64,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
      * A new yearly subscription will be issued for changed ‘Total’ quantity/price
    * Lifetime License
      * A new order will be issued at added quantity/price
-5. Invoice Link : [인보이스 링크](https://accounts.bdrive.com/accounts/invoices)<br><br>
+5. [Invoice Link](https://accounts.bdrive.com/accounts/invoices)<br><br>
 
 
 ### **Team Manual**
