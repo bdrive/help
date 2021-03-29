@@ -6,7 +6,7 @@ A trial version is available in [**Bdrive website**](https://www.netdrive.net/st
 
 ‘**License**’ is defined as the number of software that can be used concurrently in any device, and each customer can purchase as many licenses as needed.
 
-Once the license purchase is successfully completed, no-reply confirmation email is immediately sent to user account ID along with the invoice link. Useful license information can also be found in [**Account Site**](#account-site).
+Once the license purchase is successfully completed, no-reply confirmation email is immediately sent to user account ID along with the invoice link. Useful license information can also be found in [**Account Page**](#account-page).
 
 _Note: Each account ID can purchase only one license type._
 
@@ -16,7 +16,7 @@ NetDrive3 has two kinds of plans, Personal and Team, which can be found in [**Bd
 
 - [‘**Personal Plan**’](http://www.netdrive.net/store/store/) is generally for personal use which allows only a single account ID whether customer purchases one or multiple licenses. In case of multiple Personal licenses, _same drive items_ are used among the devices and mounted drives/contents are accessible to other Windows users on the same device.
 
-- [‘**Team Plan**’](http://www.netdrive.net/store/#nav-2) can have respective account ID for each Team member. After the purchase, Team admin must [**Add Team Member**](/support/?type=documents&page=team&from=local#add-team-member) in [**Account Site**](#account-site). Unlike Personal plan, each Team member has _their own drive items_ and mounted drives are not visible to other Windows users on the same devices.
+- [‘**Team Plan**’](http://www.netdrive.net/store/#nav-2) can have respective account ID for each Team member. After the purchase, Team admin must [**Add Team Member**](/support/?type=documents&page=team&from=local#add-team-member) in [**Account Page**](#account-page). Unlike Personal plan, each Team member has _their own drive items_ and mounted drives are not visible to other Windows users on the same devices.
 
 ### **License Types**
 
@@ -34,7 +34,7 @@ _Note: Personal plan offers both 1 year and lifetime support option whereas Team
 
 ### **Add License**
 
-License can be added to initial purchase order at 'Add license' price. The purchase can be proceeded in [**License category in Account Site**](https://accounts.bdrive.com/plans_products/NetDrive3).
+License can be added to initial purchase order at 'Add license' price. The purchase can be proceeded in [**License category in Account Page**](https://accounts.bdrive.com/plans_products/NetDrive3).
 
 When placing an add license order, the followings will be proceeded :
 
@@ -55,9 +55,9 @@ _Note: Refund can be proceeded within 2 weeks of purchased day based on our [**R
 Information can be found in [**Team License**](https://www.netdrive.net/support/?type=documents&page=team) including how to add Team members, add Team Licenses and Team features.
 
 
-### **Account Site**
+### **Account Page**
 
-Each customer needs to [**Create Account ID**](#create-account-id) prior to purchase and login to NetDrive3 software. Account Site is [**https://accounts.bdrive.com**](https://accounts.bdrive.com) and includes Login Information, [**Reset Password**](#reset-password), [**Change Login Method**](#change-login-method), [**Invoice Link**](#invoice-link), [**Add License**](#add-license), [**Support Site**](#support-site), etc.
+Each customer needs to [**Create Account ID**](#create-account-id) prior to purchase and login to NetDrive3 software. Account Page is [**https://accounts.bdrive.com**](https://accounts.bdrive.com) and includes Login Information, [**Reset Password**](#reset-password), [**Change Login Method**](#change-login-method), [**Invoice Link**](#invoice-link), [**Add License**](#add-license), [**Support Site**](#support-site), etc.
 
 ### **Subscription Auto-Renewal**
 
@@ -77,7 +77,7 @@ If purchased multiple license quantities, the lifetime support option can only b
 
 Prior to purchase or login to NetDrive3, every customer needs to create their own Bdrive account ID and set password in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup). This account ID is required to be verified (in the email sent) before using the software. This account ID is primary identification we use to send email verification, license confirmation, support contact, renewal notification, etc.
 
-Third party login option of Facebook, Twitter, or Google is provided, and [**Change Login Method**](#change-login-method) is also available in [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections).
+Third party login option of Facebook, Twitter, or Google is provided, and [**Change Login Method**](#change-login-method) is also available in [**Accounts category of Account Page**](https://accounts.bdrive.com/accounts/social/connections).
 
 We support to [**Change Account ID**](#change-account-id) and [**Reset Password**](#reset-password) as well.
 
@@ -91,17 +91,17 @@ To request to change account ID, write to our [**Support Site**](#support-site) 
 
 ### **Reset Password**
 
-In case of lost or need for a change, the password can be reset with correct account ID provided in [**Accounts category in Account Site**](https://accounts.bdrive.com/accounts/social/connections). Reset password is completed by verifying the email sent to this address.
+In case of lost or need for a change, the password can be reset with correct account ID provided in [**Accounts category in Account Page**](https://accounts.bdrive.com/accounts/social/connections). Reset password is completed by verifying the email sent to this address.
 
 ### **Change Login Method**
 
-Once signed in with any third party credential (Facebook, Twitter, Google), user can change login method to a different third party or to email account ID in [**Manage Your Login Methods in Account Site**](https://accounts.bdrive.com/accounts/social/connections) anytime.
+Once signed in with any third party credential (Facebook, Twitter, Google), user can change login method to a different third party or to email account ID in [**Manage Your Login Methods in Account Page**](https://accounts.bdrive.com/accounts/social/connections) anytime.
 
 _Note: User email account ID is used by default if current third party is removed._
 
 ### **Invoice Link**
 
-We provide invoice link of each purchase order in [**Accounts category in Account Site**](https://accounts.bdrive.com/accounts/social/connections). Click correct invoice link to download or print.
+We provide invoice link of each purchase order in [**Accounts category in Account Page**](https://accounts.bdrive.com/accounts/social/connections). Click correct invoice link to download or print.
 
 ### **Change Credit Card**
 
