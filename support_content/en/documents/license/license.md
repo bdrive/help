@@ -105,11 +105,11 @@ We provide invoice link of each purchase order in [**Accounts category in Accoun
 
 ### **Change Credit Card**
 
-User credit card information can be updated by logging in to our payment gateway, [BlueSnap account](https://cp.bluesnap.com/jsp/account_login.jsp).
+User credit card information can be updated by logging in to our payment gateway, BlueSnap.
 
 1. Prior to this change, write to [**Bdrive Support Site**](#support-site) to find pre-generated username and password of BlueSnap. This is different from Bdrive account ID and password. Note it is not possible to change the credit card information during the license renewal period.
 
-1. Then, once logged in with BlueSnap username in [**https://cp.bluesnap.com/jsp/account_login.jsp**], click the 'Change' button under the payment method column where the change of information is able.
+1. Then, login to [**BlueSnap**](https://cp.bluesnap.com/jsp/account_login.jsp) and click the 'Change' button under the payment method column where the change of information is able.
 
 _Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#support-site) with user account ID and transaction ID._
 
