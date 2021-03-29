@@ -79,10 +79,10 @@ Team 라이선스 3개를 사용할 수 있는 7일간의 무료 트라이얼을
       * 라이선스 추가 가격에 해당하는 새로운 라이선스가 추가됩니다 
 5. 인보이스링크: [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br>
 
-### **Team 메뉴얼**
+### **Team 매뉴얼**
 
-Team 라이선스의 성공적인 온라이 구매 완료시, Admin ID로 Team 메뉴얼을 포함한 확인 이메일을 보내드립니다.
-메뉴얼은 [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947) 에서도 다운로드 가능합니다.<br><br>
+Team 라이선스의 성공적인 온라이 구매 완료시, Admin ID로 Team 매뉴얼을 포함한 확인 이메일을 보내드립니다.
+뉴얼은 [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947) 에서도 다운로드 가능합니다.<br><br>
 
 <img class="markdown" src="https://doc.bdrive.com/images/trial_netdrive.png">
 
