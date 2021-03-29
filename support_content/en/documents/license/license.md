@@ -97,7 +97,7 @@ In case of lost or need for a change, the password can be reset with correct acc
 
 Once signed in with any third party credential (Facebook, Twitter, Google), user can change login method to a different third party or to email account ID in [**Manage Your Login Methods in Account Site**](https://accounts.bdrive.com/accounts/social/connections) anytime.
 
-_Note user email account ID is used by default if current third party is removed._
+_Note: User email account ID is used by default if current third party is removed._
 
 ### **Invoice Link**
 
@@ -111,7 +111,7 @@ User credit card information can be updated by logging in to our payment gateway
 
 1. Then, login to [**BlueSnap**](https://cp.bluesnap.com/jsp/account_login.jsp) and click the 'Change' button under the payment method column where the change of information is able.
 
-_Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#support-site) with user account ID and transaction ID._
+_Note: Licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#support-site) with user account ID and transaction ID._
 
 ### **End Subscription**
 
