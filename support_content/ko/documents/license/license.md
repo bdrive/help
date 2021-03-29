@@ -16,7 +16,7 @@ NetDrive3는 Personal 및 Team 의 두 종류의 플랜이 있습니다.
 
 - [‘**Personal**’](http://www.netdrive.net/store/store/) 플랜은 라이선스 구매 갯수에 상관없이 단일 ID 계정으로 구매, 로그인 하면 됩니다. 여러개의 라이선스를 구매할 경우 여러 장치에서 _동일한 드라이브 아이템_ 을 공유하게 되고, 동일한 장치 내 여러 윈도우 이용자들이 사용할 경우 마운트된 드라이브와 컨텐트를 모두 공유합니다.
 
-- [‘**Team**’](http://www.netdrive.net/store/#nav-2) 플랜은 Team 멤버별 고유 ID 계정을 개설하여 각각 로그인 하면 됩니다. 라이선스 구매가 성공적으로 마무리되면, Team admin은 [**어카운트 페이지**](#-4) 에서 Team 멤버 추가를 반드시 진행하여야 라이선스 사용이 가능하게 됩니다 ([**Team License**](/support/?type=documents&page=team&from=local#add-team-member) 참고). Personal 플랜과 달리, 모든 Team 멤버들은 _각자의 드라이브 아이템_ 을 보유하며, 동일한 장치 내 다른 윈도우 시용자들과 공유하지 않습니다.
+- [‘**Team**’](http://www.netdrive.net/store/#nav-2) 플랜은 Team 멤버별 고유 ID 계정을 개설하여 각각 로그인 하면 됩니다. 라이선스 구매가 성공적으로 마무리되면, Team admin은 [**어카운트 페이지**](#-4) 에서 Team 멤버 추가를 반드시 진행하여야 라이선스 사용이 가능합니다 ([**Team License**](/support/?type=documents&page=team&from=local#add-team-member) 참조). Personal 플랜과 달리, 모든 Team 멤버들은 _각자의 드라이브 아이템_ 을 보유하며, 동일한 장치 내 다른 윈도우 시용자들과 공유하지 않습니다.
  
 ### **라이선스 종류**
 
@@ -71,7 +71,7 @@ Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 관�
 
 ### **평생 서포트 옵션**
 
-평생 라이선스의 1년 기술지원 및 업테이트가 종료된 경우, 차후에라도 1년 또는 평생 옵션으로 서포트 구매를 할 수 있습니다. 서포트 구매는 [**https://accounts.bdrive.com/plans_products/NetDrive3/extend_support**](https://accounts.bdrive.com/plans_products/NetDrive3/extend_support) 에서 언제나 진행할 수 있습니다.
+평생 라이선스의 1년 기술지원 및 업테이트가 종료된 경우, 차후에라도 1년 또는 평생 옵션으로 서포트 구매를 할 수 있습니다. 서포트 구매는 [https://accounts.bdrive.com/plans_products/NetDrive3/extend_support](https://accounts.bdrive.com/plans_products/NetDrive3/extend_support) 에서 언제나 진행할 수 있습니다.
 
 참고로, 다수의 라이선스를 보유 중일 경우, 평생 서포트 구매시 다수 라이선스 '전체'에 적용되며 라이선스당 서포트 개별 구매는 불가합니다.
 
