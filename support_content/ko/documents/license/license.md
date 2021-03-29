@@ -14,9 +14,9 @@ _주의: ID 계정에서는 단일 종류의 라이선스 타입만 구매할 �
 
 NetDrive3는 Personal 및 Team 의 두 종류의 플랜이 있습니다.
 
-- [‘**Personal**’](http://www.netdrive.net/store/store/) 플랜은 라이선스 구매 갯수에 상관없이 단일 ID 계정으로 구매, 로그인 하면 됩니다. 여러개의 라이선스를 구매할 경우 여러 장치에서 _동일한 드라이브 아이템_ 을 공유하게 되고, 동일한 장치 내 여러 윈도우 이용자들이 사용할 경우 마운트된 드라이브와 컨텐트를 모두 공유합니다.
+- [‘**Personal 플랜**’](http://www.netdrive.net/store/store/) 은 라이선스 구매 갯수에 상관없이 단일 ID 계정으로 구매, 로그인 하면 됩니다. 여러개의 라이선스를 구매할 경우 여러 장치에서 _동일한 드라이브 아이템_ 을 공유하게 되고, 동일한 장치 내 여러 윈도우 이용자들이 사용할 경우 마운트된 드라이브와 컨텐트를 모두 공유합니다.
 
-- [‘**Team**’](http://www.netdrive.net/store/#nav-2) 플랜은 Team 멤버별 고유 ID 계정을 개설하여 각각 로그인 하면 됩니다. 라이선스 구매가 성공적으로 마무리되면, Team admin은 [**어카운트 페이지**](#-4) 에서 Team 멤버 추가를 반드시 진행하여야 라이선스 사용이 가능합니다 ([**Team License**](/support/?type=documents&page=team&from=local#add-team-member) 참조). Personal 플랜과 달리, 모든 Team 멤버들은 _각자의 드라이브 아이템_ 을 보유하며, 동일한 장치 내 다른 윈도우 시용자들과 공유하지 않습니다.
+- [‘**Team 플랜**’](http://www.netdrive.net/store/#nav-2) 은 Team 멤버별 고유 ID 계정을 개설하여 각각 로그인 하면 됩니다. 라이선스 구매가 성공적으로 마무리되면, Team admin은 [**어카운트 페이지**](#-4) 에서 Team 멤버 추가를 반드시 진행하여야 라이선스 사용이 가능합니다 ([**Team License**](/support/?type=documents&page=team&from=local#add-team-member) 참조). Personal 플랜과 달리, 모든 Team 멤버들은 _각자의 드라이브 아이템_ 을 보유하며, 동일한 장치 내 다른 윈도우 시용자들과 공유하지 않습니다.
  
 ### **라이선스 종류**
 
@@ -39,7 +39,7 @@ _주의: Personal 평생 라이선스는 1년/평생 옵션이 제공되지만, 
 
 라이선스 추가 구매를 할 경우, 아래 절차가 진행됩니다 :
 
-- ‘**연간 구독**’ 경우, 기존(최근) 구독이 우선 자동 취소 되고, 해당 구독기간 중 미사용 일수에 해당하는 금액을 일할 계산하여 환불합니다. 그리고 추가된 최종 라이선스 갯수에 해당하는 가격으로 새로운 1년 구독이 생성됩니다. 이후 매년 라이선스 추가한 날짜에 동일한 구매방식으로 자동결제 됩니다. [**구독 자동 갱신**](#-5) 정보를 참조하시기 바랍니다.
+- ‘**연간 구독**’ 경우, 기존(최근) 구독이 우선 자동 취소 되고, 해당 구독기간 중 미사용 일수에 해당하는 금액을 일할 계산하여 환불합니다. 그리고 추가된 최종 라이선스 갯수에 해당하는 가격으로 새로운 1년 구독이 생성됩니다. 이후 매년 라이선스 추가한 날짜에 동일한 구매방식으로 자동결제 됩니다. [**구독 자동 갱신**](#-5) 정보를 참고하시기 바랍니다.
 
 - ‘**Lifetime License**’ 경우, 추가 라이선스 가격으로 일회성으로 추가 구매가 진행됩니다.
 
@@ -65,19 +65,19 @@ Team 라이선스 관련 멤버 추가, 라이선스 추가, 각종 기능 관�
 
 연간 구독은 최초 결제일에 매년 동일한 결제 방식, 금액으로 자동결제 됩니다. 자동결제 직후 email ID 계정으로 구독 정보가 보내집니다.
 
-자동결제 7일 전 즈음 갱신 알림 이메일을 ID 계정으로 보내니, 사용자께서는 신용카드 만료일 등의 중요 내용을 확인하시기를 권유드립니다. 자동결제가 실패하면 라이선스가 즉시 취소되기어 라이선스 사용이 어렵게 됩니다. 신용카드 변경이 필요하면 [**신용카드 변경**](#-10) 을 우선 확인 후 변경을 진행하시기 바랍니다.
+자동결제 7일 전 즈음 갱신 알림 이메일을 ID 계정으로 보내니, 사용자께서는 신용카드 만료일 등의 중요 내용을 확인하시기를 권유드립니다. 자동결제가 실패하면 사용중인 라이선스가 즉시 취소되어 라이선스 사용이 어렵게 됩니다. 신용카드 변경이 필요하면 [**신용카드 변경**](#-10) 을 우선 확인 후 변경을 진행하시기 바랍니다.
 
 부득이하게 구독 취소가 필요하면, [**구독 취소**](#-11) 및 [**환불 정책**](#-12) 을 사전에 확인하신 이후에 [**고객지원 사이트**](#-13) 에 연락하시기 바랍니다.
 
 ### **평생 서포트 옵션**
 
-평생 라이선스의 1년 기술지원 및 업테이트가 종료된 경우, 차후에라도 1년 또는 평생 옵션으로 서포트 구매를 할 수 있습니다. 서포트 구매는 [https://accounts.bdrive.com/plans_products/NetDrive3/extend_support](https://accounts.bdrive.com/plans_products/NetDrive3/extend_support) 에서 언제나 진행할 수 있습니다.
+평생 라이선스의 1년 기술지원 및 업테이트가 종료된 경우, 차후에라도 1년 또는 평생 옵션으로 서포트 구매를 할 수 있습니다. 서포트 구매는 [**https://accounts.bdrive.com/plans_products/NetDrive3/extend_support**](https://accounts.bdrive.com/plans_products/NetDrive3/extend_support) 에서 언제나 진행할 수 있습니다.
 
 참고로, 다수의 라이선스를 보유 중일 경우, 평생 서포트 구매시 다수 라이선스 '전체'에 적용되며 라이선스당 서포트 개별 구매는 불가합니다.
 
 ### **ID 계정 등록**
 
-NetDrive3 라이선스 구매 및 로그인 이전에, 모든 사용자는 Bdrive ID 계정 등록을 [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) 에서 진행하여야 합니다. ID 계정 등록이후 개인 확인이 완료되어야만 소프트웨어를 사용할 수 있습니다. 해당 ID 계정은 이메일 송신, 라이선스 확인, 고객지원, 갱신 알림 이메일 송신 등에 이용하는 가장 중요한 ID 입니다.
+NetDrive3 라이선스 구매 및 로그인 이전에, 모든 사용자는 Bdrive ID 계정 등록을 [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) 에서 진행하여야 합니다. ID 계정 등록이후 개인 확인이 완료되어야만 소프트웨어를 사용할 수 있습니다. 해당 ID 계정은 이메일 송신, 라이선스 확인, 고객지원, 갱신 알림 이메일 송신 등의 고객지원 업무시 이용하는 가장 기본적인 ID 입니다.
 
 제3 로그인 옵션으로 Facebook, Twitter, Google 이 지원되며, [**로그인 방식 변경**](#-8) 은 어카운트 페이지의 [**Accounts**](https://accounts.bdrive.com/accounts/social/connections) 항목에서 가능합니다.
 
@@ -109,7 +109,7 @@ _주의: 제3의 로그인 계정이 삭제될 경우 email ID를 기본 계정�
 
 기 사용한 신용카드 정보는 BlueSnap 사이트에서 변경이 가능합니다.
 
-1. 우선, [**Bdrive 고객지원 사이트**](#-13) 문의를 통해 BlueSnap 사이트의 'pre-generated username' 및 'password' 를 요청하세요. (BlueSnap username은 Bdrive account ID와 다릅니다).
+1. 우선, [**Bdrive 고객지원 사이트**](#-13) 이메일 문의를 통해 BlueSnap 사이트의 'pre-generated username' 및 'password' 를 요청하시기 바랍니다. (BlueSnap username은 Bdrive account ID와 다릅니다). 라이센스 갱신 기간 중에는 카드 변경이 불가합니다.
 
 1. BlueSnap username 수령 이후,  [BlueSnap](https://cp.bluesnap.com/jsp/account_login.jsp)에 로그인하여 'payment method' 하단에 있는 'Change' 버튼을 클릭 한 이후, 필요한 카드 정보를 변경하시기 바랍니다.
 
