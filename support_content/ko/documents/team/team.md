@@ -1,102 +1,92 @@
-### **Team License**
+### **Team 라이선스**
 
-**1 license can be used to access to 1 device concurrently**.  
-There is an option to change current device to a new device in [https://accounts.bdrive.com](https://accounts.bdrive.com) whenever needed to change.  If you need to access to several devices at the same time, multiple licenses is required.  Check the store [https://www.netdrive.net](https://www.netdrive.net).<br>
+**1개의 라이선스를 이용하여 1개의 장치에서 동시 접속 할 수 있습니다.**.  
+NetDrive3 를 사용중인 장치가 아닌 다른 장치에서 사용하기 원하면 [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 장치 변경을 진행할 수 있습니다. 만약 여러 장시에서 동시에 라이센스를 사용해야 한다면, 필요한 장치수 만큼의 라이선스 갯수를 구매하여야 합니다.<br>
 
-**Team Admin can purchase Team licenses**.  
-Team Admin needs to create email account ID in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email.  After the purchase, Admin can add Team members in  [https://accounts.bdrive.com](https://accounts.bdrive.com).<br><br>
+**Team Admin이 라이선스를 구매할 수 있습니다.** 
+Team Admin은 [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) 에서 ID 계정을 생성해야 하고, 절차상 이메일 확인을 반드시 진행해야 합니다.  라이선스 구매가 성공적으로 완료되면, Team Admin은 [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 해당 멤버를 추가해야 합니다.<br><br>
 
-### **Team Trial**
-
-A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s available in [ https://www.netdrive.net/store]( https://www.netdrive.net/store), [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
+### **Team 트라이얼**
+Team 라이선스 3개를 사용할 수 있는 7일간의 무료 트라이얼을 지원합니다. 트라이얼 다운로드는 [https://www.netdrive.net/store]( https://www.netdrive.net/store), [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) 에서 할 수 있습니다.
 
 <img class="markdown" src="https://doc.bdrive.com/images/trial_netdrive.png" alt="Trial NetDrive">
 
+### **유용한 링크**
+   * 고객지원 사이트: [https://support.bdrive.com](https://support.bdrive.com)
+   * 도큐멘트: [https://www.netdrive.net/help/](https://www.netdrive.net/help)
+   * 사용자 어카운트: [https://accounts.bdrive.com](https://accounts.bdrive.com)
+   * Team 어카운트: [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team)
+   * 라이선스 추가: [https://accounts.bdrive.com/plans_products/NetDrive3](https://accounts.bdrive.com/plans_products/NetDrive3)
+   * ID 등록: [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup)
+   * 패스워드 변경: [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset)
+   * 인보이스 링크: [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br>
 
-### **Useful Links**
+### **Team 멤버 추가**
 
-   * Support: [https://support.bdrive.com](https://support.bdrive.com)
-   * User Docs: [https://www.netdrive.net/help/](https://www.netdrive.net/help/)
-   * Accounts: [https://accounts.bdrive.com](https://accounts.bdrive.com)
-   * Team Account: [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team)
-   * Add License: [https://accounts.bdrive.com/plans_products/NetDrive3](https://accounts.bdrive.com/plans_products/NetDrive3)
-   * Sign Up: [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup)
-   * Password Reset: [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset)
-   * Invoice: [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br>
-
-
-
-
-### **Add Team Members**
-
-1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID and then click ‘Manage’ button in Plans & Products of NetDrive 3 category
+1. [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 Team Admin ID로 로그인 한 이후, Plans & Products 카테고리에 있는 ‘Manage’ 버튼을 클릭 하세요
     <img class="markdown" src="https://doc.bdrive.com/images/plans_products_netdrive.png">
-2. Click ‘Manage’ button in Team category
     <img class="markdown" src="https://doc.bdrive.com/images/plans_products_team.png">
-3. Add Team Member’s account ID at the bottom of the page and then assign license quantity for each added member
-   * By default, quantity is set to 1 per member and it can be changed anytime within available quantity
-   * Add Member fails if the user is already a team member or has any other plan 
-   * Optionally, we assist to register multiple Team members if you send us CSV file
+2. 각 Team 멤버의 ID 계정을 페이지 하단에서 추가하고, 멤버별 라이선스 갯수도 할당 하세요
+   * 멤버별 라이선스 갯수는 1개로 세팅되어 있지만, 총 라이선스 갯수 범위 내에서 언제든지 변경 가능 합니다
+   * 멤버 추가시 다른 Team 의 멈버이거나 이미 다른 플랜을 보유중인 경우는 멤버 추가가 불가능 합니다 
+   * Team 멤버가 매우 많을시 CSV 파일로 보내주시면 등록 대행을 지원해 드립니다
     <img class="markdown" src="https://doc.bdrive.com/images/by_members_netdrive.png">
-4. Team Members need to check ‘Email Verification’ before using the software
-   * **Each member needs to create account ID** in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
-   * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 
-   * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email
-5. Note: Distinct role of Team Admin / Team Maintainer
-   * Team Admin manages team account anytime as needed
-      * Purchase Team licenses 
-      * Add/Remove/Deactivate/Reactivate Team Members
-      *	Assign License quantity
-      * Change Team Admin/Maintainer
-      *	Team Domains
-   * Team Maintainer controls team drive
-      *	Create Team Drives
-      * Change Settings
-      * Republish/Unpublish
-   * By default, Team Admin has Team Maintainer role and it can be assigned to another member in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team)<br><br>
+3. 모든 Team 멤버는 소프트웨어 이용에 앞서 이메일 계정으로 보내진 ‘이메일 확인’ 을 반드시 선행해야 합니다
+   * 모든 Team 멤버는 각자의 ID 계정을 [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) 에서 등록 하고 이메일 확인을 해야 합니다
+   * Team 멤버 추가시점에 해당 멤버의 ID 계정을 아직 미개설 상태면, '임시 비밀번호'를 포함한 이메일이 보내지니 임시 비밀번호로 로그인을 하기 바랍니다. 차후에 [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 에서 반드시 비밀번호를 변경하시기 바랍니다 
+   * **확인 이메일 미수령** 시, 해당 ID로 [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 로그인을 재시도 하면 확인 이메일이 재송신 됩니다. 스팸메일도 확인하세요
+4. 주의: Team Admin / Team Maintainer 역할
+   * Team Admin: Team 어카운트 관리
+      * Team 라이선스 구매 
+      * Team 멤버 추가/삭제/활성화/비활성화 등
+      *	라이선스 갯수 설정
+      * Team Admin/Maintainer 변경
+      *	Team Domain 설정
+   * Team Maintainer: Team Drive 관리
+      *	Team Drives 생성, 삭제
+      * Team Drives 설정
+      * Team Drives Republish/Unpublish
+   * 기본적으로 Team Admin 은 Team Maintainer 역할을 수행하며, 변경시 [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) 참조<br><br>
    
-  
-**(Optional)**  Team Members can be added by Domains
+**(옵션)**  Team Domain 을 통한 멤버 추가 기능
 
-1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID. Go to ‘Domains’ tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) and then register the domain (max 2)
+1.[https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 Team Admin ID로 로그인 한 이후, [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) 의 ‘Domains’ 탭으로 이동 후 Domain 등록을 하세요 (최대 2개)
     <img class="markdown" src="https://doc.bdrive.com/images/by_domains.png">
-2. Team Admin needs to check ‘Domain Verification Email’ to complete the registration
-3. Go to ‘Members’ tab (and follow the steps to add members).  Add Team Member’s account ID and assign license quantity 
-   * Add Team member’s account ID, either email under registered domains or any email address
-      * At the moment of domain verification, existing account IDs under registered domains will be automatically added to Members tab.  It is suggested to remove unwanted users from the list
-      * Unlimited Plan allows Team members under registered domains only
-   * Assign license quantity for each added member (set to 1 by default)
-4. Team Members need to check ‘Email Verification’ before using the software
-   * **Each member needs to create account ID** in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
-   * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 
-   * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email.  Check spam box, too<br><br>
+2. Team Admin ID로 보내진 이메일을 반드시 확인해야 합니다
+3. 다시 ‘Members’ 탭으로 이동하여 멤버 추가 및 라이선스 갯수 설정을 진행하세요
+   * Team 멤버 ID는 해당 Domain 주소 여부와 관계 없음
+      * Domain 등록 완료시, 해당 Domain 을 사용하는 ID 계정 보유 사용자들은 자동으로 Team 멤버가 됩니다. 만약 원치 않는 사용자가 표시될 경우 반드시 멤버 삭제를 하시기 바랍니다
+      * Unlimited 플랜 구매자는 반드시 Domain 등록을 통한 사용자 추가만 지원됩니다
+   * 각 멤버별 라이선스 갯수를 설정하세요 (기본 1개)
+4. 각 멤버는 해당 ID로 보내진 이메일에서 ‘이메일 확인’ 을 반드시 해야 합니다
+   * 모든 Team 멤버는 각자의 ID 계정을 [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) 에서 등록 하고 이메일 확인을 해야 합니다
+   * Team 멤버 추가시점에 해당 멤버의 ID 계정을 아직 미개설 상태면, '임시 비밀번호'를 포함한 이메일이 보내지니 임시 비밀번호로 로그인을 하기 바랍니다. 차후에 [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 에서 반드시 비밀번호를 변경하시기 바랍니다 
+   * **확인 이메일 미수령** 시, 해당 ID로 [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 로그인을 재시도 하면 확인 이메일이 재송신 됩니다. 스팸메일도 확인하세요<br><br>
 
-### **Add Licenses**
+### **라이선스 추가**
 
-1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID and then click ‘Manage’ button in Plans & Products of NetDrive 3 category
+1. [https://accounts.bdrive.com](https://accounts.bdrive.com) 에서 Team Admin ID로 로그인 한 이후, Plans & Products 카테고리에 있는 ‘Manage’ 버튼을 클릭 하세요 
     <img class="markdown" src="https://doc.bdrive.com/images/plans_products_netdrive.png">
-2. Click ‘Add License’ button in License category
+2. License 카테고리에 있는 ‘Add License’ 버튼을 클릭 하세요
     <img class="markdown" src="https://doc.bdrive.com/images/plans_products_license.png">
-3. Change ‘Total’ quantity followed by ‘Proceed to Checkout’ button (limited one time per day)
+3. 추가한 '최종 (Total)' 라이선스 갯수를 선택 한 이후 ‘Proceed to Checkout’ 버튼을 클릭하세요 (하루 1회로 제한)
     <img class="markdown" src="https://doc.bdrive.com/images/add_license.png">
-4. New purchase order issued
-   * Yearly Subscription
-     * Your most recent subscription will be cancelled and partially refunded (PRORATE)
-     * A new yearly subscription will be issued for changed ‘Total’ quantity/price
-   * Lifetime License
-      * A new order will be issued for added quantity/price
-5. Invoice Link : [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br>
+4. 새로운 구독의 생성
+   * 연간 구독
+     * 최초 (또는 최근) 연간 구독이 취소되고, 구독기간 중 미사용 기간에 해당하는 금액을 일할 계산하여 환불 합니다
+     * 총 라이선스 갯수에 맞는 1년 기간의 새로운 연간 구독이 발행됩니다 
+   * 평생 라이센스
+      * 라이선스 추가 가격에 해당하는 새로운 라이선스가 추가됩니다 
+5. 인보이스링크: [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br>
 
+### **Team 메뉴얼**
 
-### **Team Manual**
-
-Team manual is auto-emailed to Team Admin email address right after the purchase completion.
-
-It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947) as well.<br><br>
+Team 라이선스의 성공적인 온라이 구매 완료시, Admin ID로 Team 메뉴얼을 포함한 확인 이메일을 보내드립니다.
+메뉴얼은 [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947) 에서도 다운로드 가능합니다.<br><br>
 
 <img class="markdown" src="https://doc.bdrive.com/images/trial_netdrive.png">
 
 
-### **General Information on License Terms**
+### **라이선스 관련 기본 사용 안내**
 
-General information can be found in [NetDrive License](2-11-license) and [Bdrive Website](https://www.bdrive.com).<br><br>
+라이선스 관련 기본 사용 안내는 [NetDrive License](2-11-license) 또는 [Bdrive Website](https://www.bdrive.com) 에서 참고하실 수 있습니다.<br><br>
