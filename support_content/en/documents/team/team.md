@@ -78,7 +78,7 @@ It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member
 ### **Useful Links**
 
    * Support: [https://support.bdrive.com](https://support.bdrive.com)
-   * Document: [https://www.netdrive.net/help/](https://www.netdrive.net/help)
+   * Documents: [https://www.netdrive.net/help/](https://www.netdrive.net/help)
    * User Account: [https://accounts.bdrive.com](https://accounts.bdrive.com)
    * Team Account: [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team)
    * Add License: [https://accounts.bdrive.com/plans_products/NetDrive3](https://accounts.bdrive.com/plans_products/NetDrive3)
