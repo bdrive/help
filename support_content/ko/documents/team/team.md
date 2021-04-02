@@ -37,6 +37,7 @@ Team 라이선스 '3개'를 사용해 볼 수 있는 7일간의 무료 트라이
    * 참고: Team Admin 은 Team Maintainer 역할을 기본적으로 수행하며, 변경 필요시 [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) 에서 진행하시면 됩니다<br><br>
    
 **(옵션: Team Domain을 통한 멤버 추가)**
+
 1. [어카운트 페이지](https://accounts.bdrive.com) 에서 Team Admin ID로 로그인 한 이후, [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) 의 ‘Domains’ 탭으로 이동하여 해당 Domain을 등록바랍니다 (최대 2개)
     <img class="markdown" src="https://doc.bdrive.com/images/by_domains.png">
 2. Team Admin ID로 보내진 이메일에서 본인 확인을 반드시 진행하여야 합니다
