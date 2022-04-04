@@ -42,6 +42,12 @@ Click "+" button at lower right side to add drive items. You can also change dri
 
 <img class="markdown" src="https://doc.bdrive.com/images/add_configure_drive_5.jpg" style="width: 500px">
 
+- ITEM LOCATION OPTIONS
+
+  - **In account** : Drive configuration will be stored on account server. If you use NetDrive with same account on other computer same configuration will be downloaded from account server.
+  - **In device** : Drive configuration will be stored on your computer and not uploaded to account server.
+
+
 - AUTO CONNECT OPTIONS
 
   - **No automatic mount** : Connects only when user proceeds CONNECT command.
