@@ -42,6 +42,11 @@
 
 <img class="markdown" src="https://doc.bdrive.com/images/add_configure_drive_5.jpg">
 
+- ITEM LOCATION OPTIONS
+
+  - In account: 드라이브 설정이 계정 서버에 저장됩니다. 다른 컴퓨터에서 동일한 계정으로 넷드라이브에 로그인할 때 드라이브 설정이 서버에서 다운로드 됩니다.
+  - In device: 드라이브 설정이 컴퓨터에 저장되고, 서버에 저장되지 않습니다.
+
 - AUTO CONNECT OPTIONS
 
   - No automatic mount : 사용자가 CONNECT 명령을 내릴때에만 연결을 합니다.
