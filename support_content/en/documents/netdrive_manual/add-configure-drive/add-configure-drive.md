@@ -38,7 +38,7 @@ Click "+" button at lower right side to add drive items. You can also change dri
 
 <img class="markdown" src="https://doc.bdrive.com/images/add_configure_drive_4.png" style="width:300px">
 
-- Select drive letter for each mounted drive in MOUNT category. You may also select drive type, either network drive or local drive.
+- Select drive letter for each mounted drive in MOUNT category. You may also select drive type, either network drive or local drive. Some applications works only in a specific drive type. If your application doesn't work please try to change drive type. On macOS you need to select local drive to use Spotlight search. With this option Spotlight search works on mounted drives but it will make more network traffics for making indexes for Spotlight search. (Local drive support will be included in NetDrive 3.17)
 
 <img class="markdown" src="https://doc.bdrive.com/images/add_configure_drive_5.jpg" style="width: 500px">
 
