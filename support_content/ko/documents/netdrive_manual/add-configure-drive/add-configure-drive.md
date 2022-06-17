@@ -38,7 +38,7 @@
 
 <img class="markdown" src="https://doc.bdrive.com/images/add_configure_drive_4.png">
 
-- MOUNT에서 사용할 드라이브 레터를 선택하고, 드라이브의 타입을 네트워크 또는 컬 드라이브를 선택합니다.
+- MOUNT에서 사용할 드라이브 레터를 선택하고, 드라이브의 타입을 네트워크 또는 로컬 드라이브를 선택합니다. 어떤 애플리케이션들은 네트워크 또는 로컬 드라이브 둘 중의 하나에서만 정상 동작합니다. 사용하는 애플리케이션에서 동작하지 않는다면 드라이브 타입을 변경해보시기 바랍니다. 맥에서 로컬 드라이브를 선택하면 Spotlight 검색을 지원합니다. Spotlight 검색을 지원하기 위해서 파일에 대한 색인 작업이 실행되기 때문에 많은 네트웍 트래픽이 발생할 수 있습니다. (맥에서 드라이브 타입을 선택하는 기능은 3.17 이후에 포함됩니다)
 
 <img class="markdown" src="https://doc.bdrive.com/images/add_configure_drive_5.jpg">
 
