@@ -7,7 +7,7 @@ Select Google Drive in STORAGE TYPE and then click CONNECT.
 <img class="markdown" src="https://doc.bdrive.com/images/google_drive_config_1.jpg">
 
 
-<img class="markdown" src="https://doc.bdrive.com/images/google_drive_config_2.jpg">
+<img class="markdown" src="https://doc.bdrive.com/images/google_drive_config_2.png">
 
 
 You will find above Google login window in your explorer and NetDrive Application will turn to "Wait for authentication" status awaiting Google Drive to login.
